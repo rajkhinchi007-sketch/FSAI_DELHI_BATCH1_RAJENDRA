@@ -1,0 +1,50 @@
+EXERCISE 3: GENERATIVE AI VIDEO SYNTHESIS
+============================================================
+
+Participant: Rajendra Prasad
+Selected Tool: Google Veo
+Video Duration: 3 Seconds
+
+EXACT VIDEO GENERATION PROMPT
+------------------------------------------------------------
+
+Create a visually appealing, cinematic 3-second video
+using the three provided reference images.
+
+SCENE 1:
+Begin by displaying the first original photograph.
+Apply a smooth cinematic zoom-in effect with natural lighting.
+
+SCENE 2:
+Gradually transition from the first photograph to the
+second photograph using a smooth cross-dissolve effect.
+
+SCENE 3:
+Transition into the third reference image, which is the
+composite image created by blending the two original images.
+
+CAMERA INSTRUCTIONS:
+Use smooth camera movements, subtle zoom effects,
+stable framing and professional cinematic transitions.
+
+VISUAL QUALITY:
+Maintain the original visual characteristics, colors,
+objects and details of all three reference images.
+Use realistic lighting, balanced contrast and high-quality visuals.
+
+FINAL OUTPUT:
+The video must be approximately 3 seconds long.
+The final frame should clearly display the blended composite image.
+Avoid unnecessary text, subtitles, logos or watermarks.
+
+
+CAMERA AND TRANSITION INSTRUCTIONS
+Duration: 3 Seconds
+Opening Scene: Original Image 1
+Middle Scene: Original Image 2
+Final Scene: Blended Image
+Camera Movement: Smooth Cinematic Zoom
+Transition: Cross-Dissolve
+Visual Style: Realistic and Cinematic
+Lighting: Natural and Balanced
+Final Output: 3-Second AI Generated Video
