@@ -1,0 +1,651 @@
+complaint_id,state,department,complaint_date,status,resolution_days,urgency,complaint_description
+JS100001,Maharashtra,Health & Family Welfare,2024-10-12,Pending,,Medium,The government hospital has no essential medicines available. Kindly take necessary action.
+JS100002,Gujarat,Health & Family Welfare,2025-03-23,Resolved,13.0,Medium,There is no doctor available at the community health centre. This is affecting my family. Please treat this as urgent.
+JS100003,Gujarat,Water Supply,2024-01-14,Resolved,8.0,Medium,The water supplied to our village is dirty and unsafe. This is affecting my family.
+JS100004,Bihar,Social Justice & Empowerment,2026-01-05,Pending,,Low,I am unable to receive the disability assistance benefit. Please resolve this issue. Please treat this as urgent.
+JS100005,Madhya Pradesh,Transport,2026-02-14,Pending,,High,A dangerous pothole on the main road is causing accidents. Please resolve this issue.
+JS100006,Uttar Pradesh,Social Justice & Empowerment,2025-08-15,In Progress,,Medium,My pension application has been pending for several months. Please resolve this issue.
+JS100007,Bihar,Food & Civil Supplies,2025-12-28,Pending,,Medium,The dealer is asking for extra money to provide ration. Kindly take necessary action.
+JS100008,Bihar,Health & Family Welfare,2025-05-16,Resolved,8.0,Medium,There is no doctor available at the community health centre. I have visited the office several times.
+JS100009,Maharashtra,Social Justice & Empowerment,2024-03-06,Resolved,8.0,Low,I am unable to receive the disability assistance benefit. Please resolve this issue.
+JS100010,Maharashtra,Electricity,2026-07-28,Resolved,25.0,Medium,The electricity bill contains an incorrect and unusually high charge. This is affecting my family.
+JS100011,Maharashtra,Food & Civil Supplies,2026-03-28,In Progress,,Low,The name of an eligible family member is missing from the ration card. This is affecting my family.
+JS100012,Maharashtra,Transport,2024-11-09,Pending,,Medium,The bus service to our village has been discontinued. Please resolve this issue.
+JS100013,Rajasthan,Health & Family Welfare,2026-08-16,Resolved,16.0,Medium,The health insurance claim under the government scheme is still pending. This is affecting my family.
+JS100014,Rajasthan,Health & Family Welfare,2025-11-27,Resolved,6.0,Medium,There is no doctor available at the community health centre. Kindly take necessary action.
+JS100015,Maharashtra,Food & Civil Supplies,2024-08-05,Pending,,Medium,The name of an eligible family member is missing from the ration card. I have visited the office several times.
+JS100016,Madhya Pradesh,Social Justice & Empowerment,2024-01-02,Resolved,14.0,Medium,The old age pension payment has stopped without notice. Kindly take necessary action.
+JS100017,Maharashtra,Food & Civil Supplies,2024-06-10,In Progress,,Medium,The fair price shop is not distributing the full ration entitlement. Please resolve this issue.
+JS100018,Gujarat,Education,2024-12-04,Pending,,Low,The government school has no teachers for important subjects. This is affecting my family.
+JS100019,Gujarat,Social Justice & Empowerment,2026-02-03,Resolved,11.0,Low,I am unable to receive the disability assistance benefit. This is affecting my family.
+JS100020,Bihar,Social Justice & Empowerment,2025-04-16,Resolved,1.0,Medium,My pension application has been pending for several months. Kindly take necessary action. No action has been taken so far.
+JS100021,Uttar Pradesh,Rural Development,2025-11-07,Resolved,4.0,Medium,The PMAY housing application is pending despite document submission. Please resolve this issue.
+JS100022,Gujarat,Social Justice & Empowerment,2026-08-26,Pending,,Medium,The welfare benefit application was rejected without explanation. I have visited the office several times.
+JS100023,Bihar,Health & Family Welfare,2026-04-21,Resolved,12.0,Low,The government hospital has no essential medicines available. This is affecting my family.
+JS100024,Gujarat,Health & Family Welfare,2024-08-11,Resolved,24.0,Medium,The government hospital has no essential medicines available. This is affecting my family.
+JS100025,Rajasthan,Water Supply,2024-06-03,Resolved,8.0,High,The water supplied to our village is dirty and unsafe. Kindly take necessary action.
+JS100026,Rajasthan,Rural Development,2026-09-21,Resolved,6.0,Low,My village road is damaged and has not been repaired for months. I have visited the office several times.
+JS100027,Bihar,Education,2025-06-27,Pending,,Low,The school building is unsafe and needs urgent repair. Please resolve this issue.
+JS100028,Madhya Pradesh,Transport,2024-04-29,Resolved,10.0,Medium,My driving licence application is pending at the transport office. I have visited the office several times.
+JS100029,Gujarat,Rural Development,2024-11-18,Resolved,6.0,Medium,My village road is damaged and has not been repaired for months. I request an early resolution.
+JS100030,Gujarat,Health & Family Welfare,2025-04-26,In Progress,,Low,There is no doctor available at the community health centre. Please resolve this issue.
+JS100031,Gujarat,Rural Development,2025-10-09,Pending,,Low,The drainage and sanitation work in our village is not being maintained. Please resolve this issue.
+JS100032,Rajasthan,Food & Civil Supplies,2025-09-06,Pending,,Low,The dealer is asking for extra money to provide ration. I have visited the office several times.
+JS100033,Gujarat,Rural Development,2024-07-23,Resolved,7.0,Medium,I have not received the approved rural employment wages. I request an early resolution.
+JS100034,Bihar,Electricity,2024-11-19,Resolved,9.0,High,There has been no electricity supply in our locality for two days. I have visited the office several times.
+JS100035,Bihar,Rural Development,2024-07-31,In Progress,,Medium,The drainage and sanitation work in our village is not being maintained. Kindly take necessary action.
+JS100036,Maharashtra,Education,2025-12-03,In Progress,,Medium,My student scholarship application is pending without a reason. Kindly take necessary action.
+JS100037,Bihar,Transport,2025-07-20,Pending,,High,The road transport bus is consistently arriving late. Please resolve this issue. I am facing serious hardship.
+JS100038,Bihar,Food & Civil Supplies,2026-05-25,Resolved,3.0,High,The fair price shop is not distributing the full ration entitlement. This is affecting my family.
+JS100039,Rajasthan,Education,2024-10-30,Resolved,16.0,Low,I have not received textbooks provided under the education scheme. Please resolve this issue.
+JS100040,Maharashtra,Electricity,2025-12-25,Resolved,3.0,Medium,The electricity bill contains an incorrect and unusually high charge. I have visited the office several times.
+JS100041,Madhya Pradesh,Education,2024-12-28,Pending,,High,The government school has no teachers for important subjects. I have visited the office several times.
+JS100042,Gujarat,Water Supply,2024-08-09,Resolved,2.0,High,The water supplied to our village is dirty and unsafe. Kindly take necessary action. No action has been taken so far.
+JS100043,Madhya Pradesh,Transport,2025-04-11,Resolved,11.0,High,The road transport bus is consistently arriving late. Kindly take necessary action.
+JS100044,Rajasthan,Food & Civil Supplies,2026-03-29,Resolved,15.0,Medium,My ration card is not linked and I cannot receive subsidised food grains. Kindly take necessary action.
+JS100045,Madhya Pradesh,Health & Family Welfare,2025-06-27,Resolved,10.0,High,The ambulance did not arrive during a medical emergency. I have visited the office several times.
+JS100046,Maharashtra,Water Supply,2025-01-24,Resolved,8.0,High,Water tanker supply is irregular in our locality. I request an early resolution. No action has been taken so far.
+JS100047,Bihar,Social Justice & Empowerment,2025-11-07,In Progress,,Medium,I am unable to receive the disability assistance benefit. This is affecting my family. No action has been taken so far.
+JS100048,Gujarat,Food & Civil Supplies,2025-10-30,Resolved,7.0,Low,The name of an eligible family member is missing from the ration card. Kindly take necessary action.
+JS100049,Madhya Pradesh,Water Supply,2025-09-08,Resolved,6.0,Low,The public water pump has stopped working. I have visited the office several times.
+JS100050,Maharashtra,Social Justice & Empowerment,2025-10-21,Pending,,Low,The scholarship for eligible students from reserved categories is delayed. I request an early resolution.
+JS100051,Bihar,Transport,2025-11-17,Pending,,Medium,My driving licence application is pending at the transport office. Please resolve this issue.
+JS100052,Uttar Pradesh,Food & Civil Supplies,2025-05-16,Pending,,Low,The fair price shop is not distributing the full ration entitlement. I have visited the office several times. Please treat this as urgent.
+JS100053,Bihar,Water Supply,2026-02-25,Resolved,19.0,Low,Water tanker supply is irregular in our locality. I have visited the office several times.
+JS100054,Rajasthan,Rural Development,2026-08-09,In Progress,,Medium,My village road is damaged and has not been repaired for months. This is affecting my family.
+JS100055,Maharashtra,Transport,2025-10-11,Pending,,Low,My driving licence application is pending at the transport office. This is affecting my family.
+JS100056,Bihar,Water Supply,2026-08-30,Resolved,12.0,Low,Water tanker supply is irregular in our locality. This is affecting my family.
+JS100057,Madhya Pradesh,Food & Civil Supplies,2025-07-16,Resolved,7.0,High,The name of an eligible family member is missing from the ration card. This is affecting my family.
+JS100058,Rajasthan,Electricity,2025-04-18,Pending,,Low,The transformer is damaged and residents have no power. I request an early resolution. Please treat this as urgent.
+JS100059,Maharashtra,Water Supply,2026-05-01,Resolved,5.0,Medium,The public water pump has stopped working. Kindly take necessary action.
+JS100060,Uttar Pradesh,Rural Development,2025-12-21,In Progress,,Low,The drainage and sanitation work in our village is not being maintained. This is affecting my family.
+JS100061,Uttar Pradesh,Social Justice & Empowerment,2026-09-21,Pending,,Medium,The scholarship for eligible students from reserved categories is delayed. I have visited the office several times.
+JS100062,Bihar,Education,2024-02-25,Resolved,14.0,Medium,The school building is unsafe and needs urgent repair. I have visited the office several times.
+JS100063,Uttar Pradesh,Water Supply,2025-06-16,Resolved,19.0,High,The water supplied to our village is dirty and unsafe. This is affecting my family.
+JS100064,Madhya Pradesh,Food & Civil Supplies,2026-08-21,Resolved,17.0,Medium,The dealer is asking for extra money to provide ration. Kindly take necessary action.
+JS100065,Gujarat,Social Justice & Empowerment,2025-05-21,Pending,,Medium,My pension application has been pending for several months. Please resolve this issue.
+JS100066,Maharashtra,Education,2025-03-22,Resolved,4.0,High,The school building is unsafe and needs urgent repair. Please resolve this issue.
+JS100067,Bihar,Health & Family Welfare,2025-09-30,Resolved,7.0,High,I was denied treatment at the public health centre. Kindly take necessary action. Please treat this as urgent.
+JS100068,Bihar,Social Justice & Empowerment,2025-05-12,Resolved,6.0,Medium,My pension application has been pending for several months. I request an early resolution.
+JS100069,Madhya Pradesh,Health & Family Welfare,2026-05-27,Resolved,8.0,Medium,There is no doctor available at the community health centre. Please resolve this issue.
+JS100070,Maharashtra,Rural Development,2026-07-30,Resolved,16.0,Medium,I have not received the approved rural employment wages. This is affecting my family. I am facing serious hardship.
+JS100071,Madhya Pradesh,Food & Civil Supplies,2026-08-10,Pending,,Low,The name of an eligible family member is missing from the ration card. I request an early resolution.
+JS100072,Madhya Pradesh,Social Justice & Empowerment,2025-05-14,Pending,,Low,My pension application has been pending for several months. Kindly take necessary action.
+JS100073,Maharashtra,Rural Development,2025-03-10,Resolved,22.0,Low,I have not received the approved rural employment wages. Kindly take necessary action.
+JS100074,Maharashtra,Food & Civil Supplies,2025-01-26,Resolved,12.0,Medium,The name of an eligible family member is missing from the ration card. Please resolve this issue.
+JS100075,Gujarat,Social Justice & Empowerment,2024-02-05,Resolved,5.0,Medium,The scholarship for eligible students from reserved categories is delayed. This is affecting my family.
+JS100076,Madhya Pradesh,Food & Civil Supplies,2025-12-05,Resolved,9.0,Low,The name of an eligible family member is missing from the ration card. Kindly take necessary action.
+JS100077,Maharashtra,Transport,2024-09-04,Resolved,25.0,Medium,The road transport bus is consistently arriving late. Kindly take necessary action.
+JS100078,Maharashtra,Education,2025-07-20,Pending,,Medium,The government school has no teachers for important subjects. I have visited the office several times.
+JS100079,Gujarat,Food & Civil Supplies,2026-01-09,Pending,,Medium,My ration card is not linked and I cannot receive subsidised food grains. I have visited the office several times.
+JS100080,Rajasthan,Food & Civil Supplies,2024-09-15,Resolved,10.0,Medium,My ration card is not linked and I cannot receive subsidised food grains. Please resolve this issue.
+JS100081,Rajasthan,Food & Civil Supplies,2025-01-12,In Progress,,Medium,The dealer is asking for extra money to provide ration. This is affecting my family.
+JS100082,Madhya Pradesh,Health & Family Welfare,2024-04-19,Pending,,Medium,The health insurance claim under the government scheme is still pending. This is affecting my family. No action has been taken so far.
+JS100083,Maharashtra,Health & Family Welfare,2026-05-02,Resolved,7.0,High,I was denied treatment at the public health centre. Please resolve this issue.
+JS100084,Bihar,Water Supply,2026-05-28,Resolved,8.0,Low,The public water pump has stopped working. This is affecting my family.
+JS100085,Rajasthan,Health & Family Welfare,2024-06-15,Resolved,12.0,High,I was denied treatment at the public health centre. I have visited the office several times.
+JS100086,Uttar Pradesh,Water Supply,2024-03-07,Resolved,5.0,Medium,The public water pump has stopped working. I request an early resolution.
+JS100087,Madhya Pradesh,Health & Family Welfare,2025-02-09,Pending,,High,I was denied treatment at the public health centre. Kindly take necessary action.
+JS100088,Madhya Pradesh,Education,2025-09-21,Pending,,Medium,Scholarship amount has not been credited to my bank account. Please resolve this issue.
+JS100089,Rajasthan,Transport,2026-04-04,Resolved,6.0,Low,The bus service to our village has been discontinued. This is affecting my family.
+JS100090,Maharashtra,Rural Development,2024-02-22,Pending,,Medium,I have not received the approved rural employment wages. Kindly take necessary action.
+JS100091,Gujarat,Rural Development,2026-08-21,In Progress,,Medium,The village development work is incomplete and contractor has stopped work. I request an early resolution. Please treat this as urgent.
+JS100092,Gujarat,Water Supply,2026-04-16,Resolved,17.0,Low,The public water pump has stopped working. Please resolve this issue.
+JS100093,Madhya Pradesh,Electricity,2026-03-31,Resolved,12.0,High,My new electricity connection request is pending. This is affecting my family.
+JS100094,Gujarat,Electricity,2024-01-03,Resolved,10.0,High,There has been no electricity supply in our locality for two days. This is affecting my family.
+JS100095,Uttar Pradesh,Electricity,2024-04-15,In Progress,,High,The power line is hanging dangerously close to the road. This is affecting my family.
+JS100096,Maharashtra,Transport,2025-05-05,Resolved,18.0,Medium,The bus service to our village has been discontinued. Please resolve this issue.
+JS100097,Uttar Pradesh,Water Supply,2024-08-20,In Progress,,High,There has been no drinking water supply in our area for several days. I have visited the office several times.
+JS100098,Uttar Pradesh,Food & Civil Supplies,2026-09-15,Resolved,5.0,Low,The name of an eligible family member is missing from the ration card. Kindly take necessary action.
+JS100099,Uttar Pradesh,Social Justice & Empowerment,2024-10-06,Pending,,Medium,The welfare benefit application was rejected without explanation. I request an early resolution.
+JS100100,Gujarat,Electricity,2025-08-02,Pending,,Medium,The power line is hanging dangerously close to the road. Kindly take necessary action.
+JS100101,Bihar,Transport,2026-02-11,Resolved,7.0,High,A dangerous pothole on the main road is causing accidents. This is affecting my family.
+JS100102,Uttar Pradesh,Social Justice & Empowerment,2026-04-21,Resolved,11.0,Medium,The welfare benefit application was rejected without explanation. This is affecting my family.
+JS100103,Uttar Pradesh,Water Supply,2024-09-15,In Progress,,High,The water supplied to our village is dirty and unsafe. This is affecting my family.
+JS100104,Madhya Pradesh,Health & Family Welfare,2026-04-19,Resolved,11.0,Medium,There is no doctor available at the community health centre. This is affecting my family. Please treat this as urgent.
+JS100105,Bihar,Electricity,2025-11-03,Resolved,2.0,Medium,The power line is hanging dangerously close to the road. This is affecting my family.
+JS100106,Bihar,Transport,2025-04-25,In Progress,,High,A dangerous pothole on the main road is causing accidents. Please resolve this issue.
+JS100107,Rajasthan,Health & Family Welfare,2024-07-24,Resolved,7.0,Low,The health insurance claim under the government scheme is still pending. Please resolve this issue.
+JS100108,Maharashtra,Rural Development,2026-02-06,Resolved,8.0,Low,The village development work is incomplete and contractor has stopped work. Please resolve this issue.
+JS100109,Uttar Pradesh,Education,2025-05-08,Resolved,12.0,Low,The government school has no teachers for important subjects. I have visited the office several times. I am facing serious hardship.
+JS100110,Uttar Pradesh,Food & Civil Supplies,2026-08-10,Resolved,11.0,Low,The dealer is asking for extra money to provide ration. Kindly take necessary action.
+JS100111,Uttar Pradesh,Electricity,2026-05-18,Resolved,9.0,High,The power line is hanging dangerously close to the road. Kindly take necessary action.
+JS100112,Rajasthan,Transport,2026-01-05,Pending,,Medium,The bus service to our village has been discontinued. I have visited the office several times.
+JS100113,Madhya Pradesh,Water Supply,2024-04-10,In Progress,,Medium,My household water connection application is pending. Please resolve this issue.
+JS100114,Bihar,Social Justice & Empowerment,2025-01-24,Pending,,Medium,The welfare benefit application was rejected without explanation. Kindly take necessary action.
+JS100115,Rajasthan,Education,2026-06-21,Pending,,Medium,Scholarship amount has not been credited to my bank account. Please resolve this issue.
+JS100116,Maharashtra,Food & Civil Supplies,2024-09-27,Resolved,1.0,Medium,My new ration card application has not been processed. This is affecting my family.
+JS100117,Rajasthan,Food & Civil Supplies,2026-09-13,Resolved,9.0,Low,The fair price shop is not distributing the full ration entitlement. Kindly take necessary action.
+JS100118,Maharashtra,Transport,2025-04-07,In Progress,,Medium,The bus service to our village has been discontinued. I have visited the office several times.
+JS100119,Maharashtra,Electricity,2024-09-10,Pending,,High,There has been no electricity supply in our locality for two days. This is affecting my family. No action has been taken so far.
+JS100120,Madhya Pradesh,Water Supply,2026-08-23,In Progress,,Medium,My household water connection application is pending. Please resolve this issue.
+JS100121,Rajasthan,Social Justice & Empowerment,2025-09-10,Resolved,10.0,Medium,My pension application has been pending for several months. This is affecting my family.
+JS100122,Bihar,Food & Civil Supplies,2024-10-04,Pending,,Low,The dealer is asking for extra money to provide ration. Please resolve this issue. No action has been taken so far.
+JS100123,Madhya Pradesh,Water Supply,2024-07-21,In Progress,,Low,Water tanker supply is irregular in our locality. I have visited the office several times.
+JS100124,Maharashtra,Rural Development,2025-04-28,Pending,,Low,The village development work is incomplete and contractor has stopped work. I have visited the office several times.
+JS100125,Bihar,Electricity,2024-09-07,Resolved,39.0,Low,There has been no electricity supply in our locality for two days. This is affecting my family.
+JS100126,Maharashtra,Rural Development,2024-09-14,In Progress,,Medium,My village road is damaged and has not been repaired for months. Kindly take necessary action.
+JS100127,Maharashtra,Social Justice & Empowerment,2025-04-22,Pending,,Low,The welfare benefit application was rejected without explanation. I have visited the office several times.
+JS100128,Gujarat,Rural Development,2025-05-28,In Progress,,Medium,The village development work is incomplete and contractor has stopped work. I have visited the office several times.
+JS100129,Uttar Pradesh,Rural Development,2024-02-02,Resolved,8.0,Medium,The village development work is incomplete and contractor has stopped work. I have visited the office several times.
+JS100130,Gujarat,Health & Family Welfare,2026-01-11,Resolved,12.0,Medium,The government hospital has no essential medicines available. This is affecting my family.
+JS100131,Uttar Pradesh,Rural Development,2024-03-04,In Progress,,Medium,The drainage and sanitation work in our village is not being maintained. Kindly take necessary action.
+JS100132,Maharashtra,Health & Family Welfare,2025-10-21,Resolved,20.0,Medium,The health insurance claim under the government scheme is still pending. This is affecting my family. Please treat this as urgent.
+JS100133,Bihar,Electricity,2026-07-18,Resolved,16.0,Medium,My new electricity connection request is pending. I request an early resolution.
+JS100134,Uttar Pradesh,Health & Family Welfare,2025-04-12,Resolved,23.0,Low,There is no doctor available at the community health centre. I have visited the office several times.
+JS100135,Rajasthan,Health & Family Welfare,2025-06-06,In Progress,,High,The ambulance did not arrive during a medical emergency. This is affecting my family.
+JS100136,Maharashtra,Health & Family Welfare,2026-02-02,Pending,,Medium,The government hospital has no essential medicines available. Please resolve this issue.
+JS100137,Madhya Pradesh,Electricity,2026-05-16,Resolved,2.0,High,There has been no electricity supply in our locality for two days. This is affecting my family.
+JS100138,Maharashtra,Electricity,2024-11-12,Resolved,4.0,High,There has been no electricity supply in our locality for two days. I request an early resolution.
+JS100139,Rajasthan,Electricity,2026-05-28,Pending,,Medium,There has been no electricity supply in our locality for two days. Kindly take necessary action.
+JS100140,Gujarat,Food & Civil Supplies,2025-09-24,Resolved,6.0,Low,My ration card is not linked and I cannot receive subsidised food grains. I have visited the office several times.
+JS100141,Uttar Pradesh,Water Supply,2024-03-03,Resolved,2.0,High,There has been no drinking water supply in our area for several days. I have visited the office several times.
+JS100142,Gujarat,Electricity,2025-10-26,In Progress,,Medium,The electricity bill contains an incorrect and unusually high charge. Kindly take necessary action.
+JS100143,Uttar Pradesh,Education,2025-07-11,Resolved,10.0,Low,I have not received textbooks provided under the education scheme. Please resolve this issue.
+JS100144,Bihar,Water Supply,2024-08-21,Resolved,4.0,Low,My household water connection application is pending. I have visited the office several times.
+JS100145,Gujarat,Transport,2024-04-22,Resolved,25.0,High,A dangerous pothole on the main road is causing accidents. Kindly take necessary action. I am facing serious hardship.
+JS100146,Gujarat,Food & Civil Supplies,2026-05-31,Resolved,5.0,Medium,My new ration card application has not been processed. Kindly take necessary action. I am facing serious hardship.
+JS100147,Madhya Pradesh,Electricity,2024-03-27,Resolved,7.0,High,There has been no electricity supply in our locality for two days. This is affecting my family.
+JS100148,Madhya Pradesh,Water Supply,2026-05-05,Resolved,16.0,Low,Water tanker supply is irregular in our locality. This is affecting my family.
+JS100149,Uttar Pradesh,Education,2026-01-11,Resolved,3.0,Medium,I have not received textbooks provided under the education scheme. This is affecting my family.
+JS100150,Gujarat,Water Supply,2025-09-27,Resolved,2.0,Medium,Water tanker supply is irregular in our locality. Please resolve this issue.
+JS100151,Bihar,Health & Family Welfare,2025-02-01,In Progress,,Low,There is no doctor available at the community health centre. Please resolve this issue.
+JS100152,Rajasthan,Education,2024-12-21,Pending,,Medium,The government school has no teachers for important subjects. Please resolve this issue. Please treat this as urgent.
+JS100153,Maharashtra,Education,2026-07-08,Pending,,High,The school building is unsafe and needs urgent repair. This is affecting my family.
+JS100154,Maharashtra,Electricity,2026-08-18,Pending,,Low,The transformer is damaged and residents have no power. I have visited the office several times.
+JS100155,Rajasthan,Rural Development,2026-07-14,In Progress,,High,The village development work is incomplete and contractor has stopped work. I request an early resolution. I am facing serious hardship.
+JS100156,Rajasthan,Health & Family Welfare,2026-08-05,Pending,,Medium,There is no doctor available at the community health centre. I request an early resolution.
+JS100157,Madhya Pradesh,Transport,2026-09-01,Resolved,11.0,High,A dangerous pothole on the main road is causing accidents. I have visited the office several times.
+JS100158,Madhya Pradesh,Health & Family Welfare,2026-06-15,Pending,,Low,There is no doctor available at the community health centre. I have visited the office several times. No action has been taken so far.
+JS100159,Bihar,Electricity,2025-11-23,Pending,,Medium,The transformer is damaged and residents have no power. This is affecting my family.
+JS100160,Maharashtra,Electricity,2026-03-02,Pending,,High,There has been no electricity supply in our locality for two days. Kindly take necessary action. No action has been taken so far.
+JS100161,Bihar,Education,2024-10-16,Pending,,Low,My student scholarship application is pending without a reason. Please resolve this issue.
+JS100162,Gujarat,Water Supply,2024-06-22,Pending,,High,The water supplied to our village is dirty and unsafe. I request an early resolution.
+JS100163,Uttar Pradesh,Health & Family Welfare,2026-01-12,Resolved,11.0,Low,The health insurance claim under the government scheme is still pending. I request an early resolution.
+JS100164,Maharashtra,Social Justice & Empowerment,2024-07-26,In Progress,,Medium,The old age pension payment has stopped without notice. I have visited the office several times. I am facing serious hardship.
+JS100165,Maharashtra,Rural Development,2024-11-11,Pending,,Medium,The village development work is incomplete and contractor has stopped work. I request an early resolution. I am facing serious hardship.
+JS100166,Uttar Pradesh,Education,2025-05-01,Pending,,Medium,The school building is unsafe and needs urgent repair. Please resolve this issue.
+JS100167,Uttar Pradesh,Social Justice & Empowerment,2026-08-18,In Progress,,Medium,The welfare benefit application was rejected without explanation. I have visited the office several times.
+JS100168,Gujarat,Transport,2026-05-07,Pending,,Medium,The road transport bus is consistently arriving late. This is affecting my family.
+JS100169,Madhya Pradesh,Food & Civil Supplies,2024-07-29,In Progress,,Medium,My ration card is not linked and I cannot receive subsidised food grains. This is affecting my family.
+JS100170,Uttar Pradesh,Health & Family Welfare,2024-10-28,Resolved,16.0,Medium,I was denied treatment at the public health centre. Kindly take necessary action.
+JS100171,Rajasthan,Electricity,2026-02-04,Resolved,13.0,High,There has been no electricity supply in our locality for two days. This is affecting my family. No action has been taken so far.
+JS100172,Gujarat,Electricity,2024-10-08,Resolved,11.0,High,There has been no electricity supply in our locality for two days. Kindly take necessary action.
+JS100173,Bihar,Transport,2024-02-08,Resolved,5.0,Low,I have not received the vehicle registration certificate. I request an early resolution. Please treat this as urgent.
+JS100174,Uttar Pradesh,Water Supply,2024-09-06,Pending,,High,There has been no drinking water supply in our area for several days. Kindly take necessary action.
+JS100175,Gujarat,Health & Family Welfare,2024-02-03,Resolved,11.0,Medium,The government hospital has no essential medicines available. This is affecting my family.
+JS100176,Rajasthan,Food & Civil Supplies,2025-05-07,Pending,,Medium,The dealer is asking for extra money to provide ration. Please resolve this issue.
+JS100177,Madhya Pradesh,Electricity,2024-02-11,Pending,,High,There has been no electricity supply in our locality for two days. I request an early resolution.
+JS100178,Maharashtra,Food & Civil Supplies,2025-12-07,Pending,,Medium,My ration card is not linked and I cannot receive subsidised food grains. Kindly take necessary action.
+JS100179,Uttar Pradesh,Electricity,2025-11-24,Pending,,Medium,The electricity bill contains an incorrect and unusually high charge. Please resolve this issue.
+JS100180,Rajasthan,Transport,2024-03-16,Pending,,Low,My driving licence application is pending at the transport office. I have visited the office several times. I am facing serious hardship.
+JS100181,Madhya Pradesh,Electricity,2026-08-27,Pending,,High,The transformer is damaged and residents have no power. I request an early resolution.
+JS100182,Uttar Pradesh,Electricity,2026-01-23,Resolved,11.0,High,There has been no electricity supply in our locality for two days. Kindly take necessary action.
+JS100183,Uttar Pradesh,Electricity,2026-01-22,Resolved,5.0,Medium,The electricity bill contains an incorrect and unusually high charge. This is affecting my family.
+JS100184,Madhya Pradesh,Health & Family Welfare,2025-01-04,Resolved,29.0,Medium,The health insurance claim under the government scheme is still pending. I request an early resolution.
+JS100185,Rajasthan,Food & Civil Supplies,2026-05-22,Resolved,13.0,Medium,My new ration card application has not been processed. This is affecting my family.
+JS100186,Bihar,Electricity,2024-04-27,Resolved,4.0,High,The power line is hanging dangerously close to the road. This is affecting my family.
+JS100187,Bihar,Education,2026-06-16,Resolved,16.0,Medium,Scholarship amount has not been credited to my bank account. I have visited the office several times.
+JS100188,Madhya Pradesh,Electricity,2024-03-07,Resolved,18.0,Medium,The transformer is damaged and residents have no power. This is affecting my family.
+JS100189,Rajasthan,Electricity,2026-01-21,Resolved,12.0,Low,My new electricity connection request is pending. Please resolve this issue.
+JS100190,Gujarat,Rural Development,2024-08-29,Pending,,Low,The PMAY housing application is pending despite document submission. This is affecting my family.
+JS100191,Rajasthan,Food & Civil Supplies,2026-07-14,Resolved,8.0,Medium,The dealer is asking for extra money to provide ration. I have visited the office several times. Please treat this as urgent.
+JS100192,Bihar,Electricity,2025-08-17,Pending,,Low,The transformer is damaged and residents have no power. Please resolve this issue.
+JS100193,Madhya Pradesh,Education,2025-02-15,Resolved,5.0,Medium,My student scholarship application is pending without a reason. I request an early resolution.
+JS100194,Uttar Pradesh,Electricity,2024-05-14,Pending,,Low,My new electricity connection request is pending. I request an early resolution. Please treat this as urgent.
+JS100195,Gujarat,Water Supply,2024-05-31,Resolved,9.0,Low,The public water pump has stopped working. I request an early resolution. I am facing serious hardship.
+JS100196,Gujarat,Education,2024-04-23,Resolved,12.0,Medium,The government school has no teachers for important subjects. This is affecting my family.
+JS100197,Maharashtra,Electricity,2025-08-04,Pending,,Medium,The electricity bill contains an incorrect and unusually high charge. Kindly take necessary action.
+JS100198,Maharashtra,Food & Civil Supplies,2024-07-10,Pending,,Medium,The fair price shop is not distributing the full ration entitlement. Kindly take necessary action.
+JS100199,Rajasthan,Education,2025-11-22,In Progress,,High,The government school has no teachers for important subjects. I request an early resolution.
+JS100200,Bihar,Rural Development,2026-05-03,Resolved,9.0,Medium,The drainage and sanitation work in our village is not being maintained. Kindly take necessary action.
+JS100201,Gujarat,Food & Civil Supplies,2026-04-11,Pending,,Low,My new ration card application has not been processed. This is affecting my family.
+JS100202,Madhya Pradesh,Transport,2025-11-27,In Progress,,Medium,I have not received the vehicle registration certificate. This is affecting my family.
+JS100203,Uttar Pradesh,Electricity,2024-08-05,Resolved,24.0,Low,My new electricity connection request is pending. I have visited the office several times.
+JS100204,Madhya Pradesh,Social Justice & Empowerment,2026-05-06,In Progress,,Medium,The old age pension payment has stopped without notice. Please resolve this issue. I am facing serious hardship.
+JS100205,Rajasthan,Electricity,2026-08-14,Resolved,14.0,Low,The electricity bill contains an incorrect and unusually high charge. I have visited the office several times.
+JS100206,Uttar Pradesh,Water Supply,2025-03-16,Resolved,4.0,Medium,Water tanker supply is irregular in our locality. This is affecting my family.
+JS100207,Uttar Pradesh,Transport,2026-06-01,Pending,,Medium,The road transport bus is consistently arriving late. I request an early resolution. Please treat this as urgent.
+JS100208,Uttar Pradesh,Electricity,2025-02-02,Resolved,3.0,High,There has been no electricity supply in our locality for two days. This is affecting my family. No action has been taken so far.
+JS100209,Madhya Pradesh,Food & Civil Supplies,2026-03-17,Resolved,13.0,Low,The name of an eligible family member is missing from the ration card. I request an early resolution. Please treat this as urgent.
+JS100210,Madhya Pradesh,Education,2026-10-21,Resolved,8.0,High,The government school has no teachers for important subjects. I request an early resolution.
+JS100211,Maharashtra,Transport,2024-10-13,Resolved,15.0,High,A dangerous pothole on the main road is causing accidents. This is affecting my family. No action has been taken so far.
+JS100212,Rajasthan,Food & Civil Supplies,2026-09-30,Resolved,13.0,Medium,The name of an eligible family member is missing from the ration card. Kindly take necessary action.
+JS100213,Maharashtra,Electricity,2025-09-22,Pending,,Medium,The transformer is damaged and residents have no power. Please resolve this issue.
+JS100214,Bihar,Transport,2024-04-15,Resolved,9.0,Medium,The road transport bus is consistently arriving late. I request an early resolution.
+JS100215,Uttar Pradesh,Water Supply,2024-08-13,Resolved,4.0,High,The water supplied to our village is dirty and unsafe. I have visited the office several times. No action has been taken so far.
+JS100216,Maharashtra,Social Justice & Empowerment,2026-08-23,Pending,,Medium,The scholarship for eligible students from reserved categories is delayed. I request an early resolution.
+JS100217,Uttar Pradesh,Social Justice & Empowerment,2026-09-06,In Progress,,Medium,The welfare benefit application was rejected without explanation. Kindly take necessary action.
+JS100218,Maharashtra,Electricity,2025-06-25,Resolved,2.0,High,The power line is hanging dangerously close to the road. Kindly take necessary action.
+JS100219,Madhya Pradesh,Food & Civil Supplies,2025-02-28,Resolved,11.0,Medium,The fair price shop is not distributing the full ration entitlement. Kindly take necessary action.
+JS100220,Gujarat,Food & Civil Supplies,2026-02-16,In Progress,,Low,My new ration card application has not been processed. Please resolve this issue.
+JS100221,Bihar,Food & Civil Supplies,2024-06-10,Pending,,Low,My ration card is not linked and I cannot receive subsidised food grains. Kindly take necessary action.
+JS100222,Maharashtra,Transport,2025-07-09,Resolved,3.0,Medium,My driving licence application is pending at the transport office. I have visited the office several times.
+JS100223,Madhya Pradesh,Social Justice & Empowerment,2025-04-07,Resolved,4.0,Medium,The old age pension payment has stopped without notice. Please resolve this issue.
+JS100224,Uttar Pradesh,Transport,2024-11-19,In Progress,,Low,The bus service to our village has been discontinued. I have visited the office several times. No action has been taken so far.
+JS100225,Bihar,Transport,2024-05-01,Resolved,10.0,Medium,My driving licence application is pending at the transport office. Kindly take necessary action.
+JS100226,Uttar Pradesh,Rural Development,2024-12-26,Resolved,10.0,Medium,The PMAY housing application is pending despite document submission. This is affecting my family.
+JS100227,Maharashtra,Education,2024-08-07,In Progress,,Low,My student scholarship application is pending without a reason. Please resolve this issue. No action has been taken so far.
+JS100228,Bihar,Transport,2025-01-29,Pending,,Medium,My driving licence application is pending at the transport office. I request an early resolution.
+JS100229,Maharashtra,Food & Civil Supplies,2025-08-27,Resolved,3.0,Medium,The fair price shop is not distributing the full ration entitlement. Please resolve this issue.
+JS100230,Uttar Pradesh,Water Supply,2026-03-31,In Progress,,Medium,The public water pump has stopped working. I request an early resolution.
+JS100231,Madhya Pradesh,Electricity,2025-04-27,In Progress,,Low,The electricity bill contains an incorrect and unusually high charge. Please resolve this issue.
+JS100232,Uttar Pradesh,Rural Development,2024-05-07,Resolved,19.0,Medium,The village development work is incomplete and contractor has stopped work. Kindly take necessary action.
+JS100233,Uttar Pradesh,Food & Civil Supplies,2025-03-28,Resolved,19.0,Medium,My ration card is not linked and I cannot receive subsidised food grains. Kindly take necessary action.
+JS100234,Rajasthan,Electricity,2025-03-23,Pending,,Medium,My new electricity connection request is pending. I request an early resolution.
+JS100235,Maharashtra,Transport,2024-08-17,Resolved,13.0,High,A dangerous pothole on the main road is causing accidents. Kindly take necessary action. No action has been taken so far.
+JS100236,Uttar Pradesh,Education,2026-06-23,Pending,,Medium,The government school has no teachers for important subjects. Kindly take necessary action.
+JS100237,Rajasthan,Health & Family Welfare,2026-07-17,Resolved,13.0,Medium,There is no doctor available at the community health centre. This is affecting my family.
+JS100238,Uttar Pradesh,Transport,2024-01-07,Resolved,13.0,Medium,The road transport bus is consistently arriving late. Please resolve this issue.
+JS100239,Gujarat,Electricity,2024-05-21,Resolved,18.0,High,There has been no electricity supply in our locality for two days. I request an early resolution.
+JS100240,Maharashtra,Water Supply,2026-02-12,In Progress,,Low,My household water connection application is pending. This is affecting my family.
+JS100241,Rajasthan,Education,2026-03-15,In Progress,,Medium,My student scholarship application is pending without a reason. Please resolve this issue.
+JS100242,Uttar Pradesh,Rural Development,2026-05-18,Resolved,15.0,Medium,The village development work is incomplete and contractor has stopped work. This is affecting my family.
+JS100243,Rajasthan,Electricity,2024-08-19,Resolved,5.0,Medium,The electricity bill contains an incorrect and unusually high charge. Kindly take necessary action.
+JS100244,Gujarat,Social Justice & Empowerment,2026-07-03,In Progress,,Medium,The old age pension payment has stopped without notice. Please resolve this issue. Please treat this as urgent.
+JS100245,Gujarat,Rural Development,2025-03-20,In Progress,,Medium,I have not received the approved rural employment wages. This is affecting my family.
+JS100246,Maharashtra,Electricity,2025-10-18,In Progress,,High,The power line is hanging dangerously close to the road. I request an early resolution.
+JS100247,Rajasthan,Social Justice & Empowerment,2024-12-24,Resolved,8.0,Medium,The scholarship for eligible students from reserved categories is delayed. Kindly take necessary action.
+JS100248,Maharashtra,Electricity,2026-05-02,Resolved,37.0,Low,My new electricity connection request is pending. I request an early resolution.
+JS100249,Uttar Pradesh,Transport,2024-10-22,Pending,,Low,My driving licence application is pending at the transport office. I have visited the office several times.
+JS100250,Rajasthan,Education,2025-11-07,In Progress,,High,The school building is unsafe and needs urgent repair. I have visited the office several times.
+JS100251,Bihar,Social Justice & Empowerment,2024-03-21,Pending,,Medium,My pension application has been pending for several months. Kindly take necessary action.
+JS100252,Gujarat,Social Justice & Empowerment,2025-11-12,Resolved,1.0,Low,The scholarship for eligible students from reserved categories is delayed. I have visited the office several times.
+JS100253,Madhya Pradesh,Health & Family Welfare,2025-02-22,Resolved,6.0,Low,The health insurance claim under the government scheme is still pending. I have visited the office several times.
+JS100254,Uttar Pradesh,Water Supply,2025-09-23,In Progress,,Low,The public water pump has stopped working. I request an early resolution.
+JS100255,Gujarat,Health & Family Welfare,2026-01-29,Pending,,Low,The health insurance claim under the government scheme is still pending. Kindly take necessary action.
+JS100256,Uttar Pradesh,Education,2026-05-05,Resolved,19.0,Low,Scholarship amount has not been credited to my bank account. Kindly take necessary action.
+JS100257,Bihar,Social Justice & Empowerment,2025-11-22,Resolved,5.0,Low,The scholarship for eligible students from reserved categories is delayed. I request an early resolution.
+JS100258,Gujarat,Transport,2025-12-22,Resolved,15.0,Medium,I have not received the vehicle registration certificate. I have visited the office several times.
+JS100259,Gujarat,Rural Development,2024-06-01,Resolved,10.0,High,The drainage and sanitation work in our village is not being maintained. Please resolve this issue.
+JS100260,Maharashtra,Social Justice & Empowerment,2026-07-22,Pending,,High,My pension application has been pending for several months. I have visited the office several times. No action has been taken so far.
+JS100261,Maharashtra,Transport,2026-04-22,Pending,,High,I have not received the vehicle registration certificate. Please resolve this issue. No action has been taken so far.
+JS100262,Gujarat,Food & Civil Supplies,2026-05-31,Resolved,5.0,Medium,My ration card is not linked and I cannot receive subsidised food grains. I request an early resolution.
+JS100263,Uttar Pradesh,Social Justice & Empowerment,2025-12-26,Resolved,1.0,Low,The old age pension payment has stopped without notice. I request an early resolution.
+JS100264,Bihar,Transport,2025-04-07,Resolved,11.0,High,A dangerous pothole on the main road is causing accidents. I have visited the office several times.
+JS100265,Rajasthan,Rural Development,2026-09-01,Pending,,Medium,My village road is damaged and has not been repaired for months. This is affecting my family.
+JS100266,Bihar,Transport,2024-07-14,Resolved,5.0,Medium,I have not received the vehicle registration certificate. Kindly take necessary action.
+JS100267,Madhya Pradesh,Transport,2025-07-28,Resolved,8.0,Medium,The road transport bus is consistently arriving late. Please resolve this issue.
+JS100268,Maharashtra,Rural Development,2026-03-26,Pending,,Medium,The PMAY housing application is pending despite document submission. I request an early resolution. No action has been taken so far.
+JS100269,Madhya Pradesh,Water Supply,2024-10-13,Resolved,13.0,Medium,Water tanker supply is irregular in our locality. Kindly take necessary action.
+JS100270,Maharashtra,Rural Development,2024-06-04,Pending,,Low,My village road is damaged and has not been repaired for months. This is affecting my family.
+JS100271,Uttar Pradesh,Water Supply,2026-07-11,Resolved,17.0,Low,My household water connection application is pending. Please resolve this issue.
+JS100272,Rajasthan,Water Supply,2024-06-24,Pending,,Low,The water supplied to our village is dirty and unsafe. I request an early resolution.
+JS100273,Rajasthan,Food & Civil Supplies,2024-11-11,Resolved,6.0,Medium,The fair price shop is not distributing the full ration entitlement. This is affecting my family.
+JS100274,Uttar Pradesh,Rural Development,2025-07-06,Resolved,5.0,Medium,The village development work is incomplete and contractor has stopped work. This is affecting my family.
+JS100275,Rajasthan,Water Supply,2024-07-09,In Progress,,High,There has been no drinking water supply in our area for several days. Please resolve this issue. No action has been taken so far.
+JS100276,Gujarat,Food & Civil Supplies,2025-05-12,Pending,,Medium,The dealer is asking for extra money to provide ration. This is affecting my family.
+JS100277,Madhya Pradesh,Education,2024-10-25,Resolved,3.0,Medium,My student scholarship application is pending without a reason. Kindly take necessary action.
+JS100278,Gujarat,Transport,2025-05-20,Pending,,Medium,The bus service to our village has been discontinued. Kindly take necessary action.
+JS100279,Madhya Pradesh,Transport,2026-03-21,Resolved,17.0,Low,The bus service to our village has been discontinued. I have visited the office several times.
+JS100280,Gujarat,Transport,2024-10-05,In Progress,,Low,The road transport bus is consistently arriving late. This is affecting my family.
+JS100281,Maharashtra,Transport,2025-10-15,Pending,,Low,The road transport bus is consistently arriving late. I have visited the office several times.
+JS100282,Maharashtra,Social Justice & Empowerment,2026-03-15,Pending,,Low,I am unable to receive the disability assistance benefit. This is affecting my family.
+JS100283,Bihar,Education,2026-08-03,Pending,,Medium,I have not received textbooks provided under the education scheme. Please resolve this issue.
+JS100284,Uttar Pradesh,Health & Family Welfare,2025-05-10,Pending,,Low,The health insurance claim under the government scheme is still pending. This is affecting my family. I am facing serious hardship.
+JS100285,Bihar,Health & Family Welfare,2026-03-31,In Progress,,Medium,The health insurance claim under the government scheme is still pending. I request an early resolution.
+JS100286,Bihar,Water Supply,2026-01-06,Resolved,33.0,Medium,Water tanker supply is irregular in our locality. Please resolve this issue.
+JS100287,Bihar,Health & Family Welfare,2025-12-28,Resolved,19.0,Medium,The government hospital has no essential medicines available. I have visited the office several times.
+JS100288,Maharashtra,Water Supply,2025-06-13,Resolved,21.0,Medium,My household water connection application is pending. This is affecting my family. Please treat this as urgent.
+JS100289,Rajasthan,Social Justice & Empowerment,2026-10-21,Resolved,5.0,Medium,The scholarship for eligible students from reserved categories is delayed. Kindly take necessary action.
+JS100290,Gujarat,Food & Civil Supplies,2024-10-17,Resolved,13.0,Low,The dealer is asking for extra money to provide ration. Please resolve this issue. No action has been taken so far.
+JS100291,Bihar,Transport,2026-07-15,Resolved,16.0,High,The road transport bus is consistently arriving late. This is affecting my family. No action has been taken so far.
+JS100292,Gujarat,Health & Family Welfare,2024-12-02,Resolved,1.0,Medium,The government hospital has no essential medicines available. Kindly take necessary action.
+JS100293,Uttar Pradesh,Electricity,2025-04-19,Pending,,Medium,The power line is hanging dangerously close to the road. This is affecting my family.
+JS100294,Gujarat,Water Supply,2026-07-09,Pending,,High,There has been no drinking water supply in our area for several days. I request an early resolution.
+JS100295,Madhya Pradesh,Food & Civil Supplies,2025-01-17,Resolved,4.0,Low,My ration card is not linked and I cannot receive subsidised food grains. I request an early resolution. No action has been taken so far.
+JS100296,Maharashtra,Transport,2026-03-14,In Progress,,High,A dangerous pothole on the main road is causing accidents. Kindly take necessary action.
+JS100297,Gujarat,Education,2024-10-01,Resolved,26.0,Low,My student scholarship application is pending without a reason. I request an early resolution.
+JS100298,Bihar,Electricity,2024-10-09,Resolved,2.0,Medium,The electricity bill contains an incorrect and unusually high charge. I request an early resolution.
+JS100299,Rajasthan,Education,2024-10-14,Resolved,23.0,Medium,I have not received textbooks provided under the education scheme. I have visited the office several times.
+JS100300,Uttar Pradesh,Electricity,2026-10-10,Pending,,High,There has been no electricity supply in our locality for two days. This is affecting my family. I am facing serious hardship.
+JS100301,Madhya Pradesh,Transport,2025-03-27,Resolved,2.0,High,My driving licence application is pending at the transport office. Please resolve this issue.
+JS100302,Maharashtra,Education,2026-10-11,Resolved,4.0,High,The school building is unsafe and needs urgent repair. I request an early resolution.
+JS100303,Bihar,Electricity,2026-06-22,Resolved,13.0,High,The power line is hanging dangerously close to the road. Please resolve this issue.
+JS100304,Gujarat,Social Justice & Empowerment,2025-12-14,In Progress,,Medium,I am unable to receive the disability assistance benefit. Please resolve this issue.
+JS100305,Gujarat,Social Justice & Empowerment,2026-05-26,Pending,,Medium,The welfare benefit application was rejected without explanation. Kindly take necessary action.
+JS100306,Maharashtra,Rural Development,2024-12-10,Resolved,10.0,Low,The drainage and sanitation work in our village is not being maintained. Kindly take necessary action.
+JS100307,Gujarat,Food & Civil Supplies,2024-05-01,Resolved,7.0,Low,The name of an eligible family member is missing from the ration card. Please resolve this issue. I am facing serious hardship.
+JS100308,Bihar,Social Justice & Empowerment,2026-03-15,Pending,,Low,The old age pension payment has stopped without notice. Kindly take necessary action.
+JS100309,Madhya Pradesh,Water Supply,2026-04-05,Pending,,Medium,The public water pump has stopped working. This is affecting my family. Please treat this as urgent.
+JS100310,Bihar,Transport,2024-07-09,Pending,,Medium,I have not received the vehicle registration certificate. Kindly take necessary action.
+JS100311,Madhya Pradesh,Electricity,2026-05-29,In Progress,,Low,There has been no electricity supply in our locality for two days. I request an early resolution.
+JS100312,Uttar Pradesh,Education,2024-04-09,Pending,,Medium,I have not received textbooks provided under the education scheme. This is affecting my family.
+JS100313,Gujarat,Rural Development,2024-01-02,Pending,,Low,My village road is damaged and has not been repaired for months. I have visited the office several times.
+JS100314,Gujarat,Food & Civil Supplies,2025-05-27,In Progress,,Medium,The fair price shop is not distributing the full ration entitlement. Kindly take necessary action. I am facing serious hardship.
+JS100315,Rajasthan,Rural Development,2025-04-24,Pending,,Low,I have not received the approved rural employment wages. Kindly take necessary action.
+JS100316,Rajasthan,Social Justice & Empowerment,2026-06-30,Resolved,25.0,High,The scholarship for eligible students from reserved categories is delayed. Please resolve this issue. Please treat this as urgent.
+JS100317,Madhya Pradesh,Water Supply,2024-07-01,Resolved,3.0,Medium,The water supplied to our village is dirty and unsafe. This is affecting my family. I am facing serious hardship.
+JS100318,Gujarat,Education,2024-10-19,Pending,,High,The school building is unsafe and needs urgent repair. I have visited the office several times.
+JS100319,Gujarat,Transport,2024-11-06,Resolved,8.0,Low,The road transport bus is consistently arriving late. I have visited the office several times.
+JS100320,Gujarat,Health & Family Welfare,2026-02-25,Resolved,14.0,Low,The government hospital has no essential medicines available. I have visited the office several times.
+JS100321,Madhya Pradesh,Social Justice & Empowerment,2025-08-06,In Progress,,High,I am unable to receive the disability assistance benefit. Please resolve this issue.
+JS100322,Gujarat,Social Justice & Empowerment,2026-03-13,Pending,,Low,The welfare benefit application was rejected without explanation. I request an early resolution.
+JS100323,Madhya Pradesh,Transport,2024-05-25,Resolved,11.0,Medium,I have not received the vehicle registration certificate. Please resolve this issue.
+JS100324,Uttar Pradesh,Electricity,2026-05-11,Resolved,5.0,Low,The electricity bill contains an incorrect and unusually high charge. This is affecting my family.
+JS100325,Uttar Pradesh,Health & Family Welfare,2025-03-17,In Progress,,Medium,The government hospital has no essential medicines available. I request an early resolution. I am facing serious hardship.
+JS100326,Gujarat,Food & Civil Supplies,2026-04-03,Resolved,6.0,Medium,The name of an eligible family member is missing from the ration card. This is affecting my family.
+JS100327,Bihar,Food & Civil Supplies,2024-11-14,Pending,,Medium,My ration card is not linked and I cannot receive subsidised food grains. Kindly take necessary action. Please treat this as urgent.
+JS100328,Uttar Pradesh,Health & Family Welfare,2025-05-03,Resolved,17.0,High,The ambulance did not arrive during a medical emergency. This is affecting my family.
+JS100329,Madhya Pradesh,Rural Development,2024-10-08,Resolved,17.0,High,The village development work is incomplete and contractor has stopped work. I have visited the office several times. No action has been taken so far.
+JS100330,Maharashtra,Food & Civil Supplies,2024-08-29,Resolved,12.0,Medium,The fair price shop is not distributing the full ration entitlement. Kindly take necessary action. I am facing serious hardship.
+JS100331,Maharashtra,Health & Family Welfare,2026-10-13,Resolved,4.0,High,The ambulance did not arrive during a medical emergency. I request an early resolution.
+JS100332,Bihar,Education,2024-07-29,Resolved,6.0,Medium,My student scholarship application is pending without a reason. I have visited the office several times.
+JS100333,Rajasthan,Rural Development,2026-08-24,Resolved,9.0,Low,My village road is damaged and has not been repaired for months. Please resolve this issue.
+JS100334,Maharashtra,Water Supply,2025-10-17,Resolved,10.0,High,The water supplied to our village is dirty and unsafe. Kindly take necessary action.
+JS100335,Madhya Pradesh,Rural Development,2024-04-04,Resolved,14.0,High,The PMAY housing application is pending despite document submission. I have visited the office several times.
+JS100336,Madhya Pradesh,Food & Civil Supplies,2024-01-17,Pending,,Low,My new ration card application has not been processed. Please resolve this issue.
+JS100337,Gujarat,Social Justice & Empowerment,2026-10-07,Resolved,8.0,Medium,The scholarship for eligible students from reserved categories is delayed. Kindly take necessary action.
+JS100338,Madhya Pradesh,Education,2025-12-10,In Progress,,Medium,Scholarship amount has not been credited to my bank account. This is affecting my family. No action has been taken so far.
+JS100339,Gujarat,Rural Development,2025-05-02,Resolved,16.0,Low,I have not received the approved rural employment wages. Kindly take necessary action. No action has been taken so far.
+JS100340,Bihar,Food & Civil Supplies,2026-04-25,Resolved,16.0,Medium,My ration card is not linked and I cannot receive subsidised food grains. Please resolve this issue.
+JS100341,Bihar,Health & Family Welfare,2026-03-18,Resolved,22.0,Medium,There is no doctor available at the community health centre. Please resolve this issue.
+JS100342,Madhya Pradesh,Education,2025-10-07,Pending,,Low,The government school has no teachers for important subjects. Kindly take necessary action.
+JS100343,Uttar Pradesh,Transport,2024-10-05,Resolved,9.0,Medium,The road transport bus is consistently arriving late. I have visited the office several times. Please treat this as urgent.
+JS100344,Rajasthan,Transport,2025-03-01,Resolved,12.0,Low,The road transport bus is consistently arriving late. This is affecting my family. I am facing serious hardship.
+JS100345,Bihar,Health & Family Welfare,2024-03-23,Resolved,8.0,High,I was denied treatment at the public health centre. Kindly take necessary action.
+JS100346,Uttar Pradesh,Social Justice & Empowerment,2025-09-04,Resolved,4.0,Low,I am unable to receive the disability assistance benefit. This is affecting my family.
+JS100347,Rajasthan,Transport,2026-08-04,Resolved,33.0,High,A dangerous pothole on the main road is causing accidents. I request an early resolution.
+JS100348,Maharashtra,Social Justice & Empowerment,2026-02-01,Pending,,Medium,The old age pension payment has stopped without notice. I have visited the office several times.
+JS100349,Madhya Pradesh,Food & Civil Supplies,2025-02-08,Resolved,20.0,Medium,My ration card is not linked and I cannot receive subsidised food grains. Please resolve this issue.
+JS100350,Bihar,Health & Family Welfare,2026-06-06,Resolved,16.0,Medium,The government hospital has no essential medicines available. This is affecting my family. No action has been taken so far.
+JS100351,Maharashtra,Water Supply,2025-01-18,Resolved,9.0,High,The water supplied to our village is dirty and unsafe. Kindly take necessary action.
+JS100352,Uttar Pradesh,Social Justice & Empowerment,2026-09-08,Resolved,4.0,Medium,I am unable to receive the disability assistance benefit. This is affecting my family.
+JS100353,Maharashtra,Social Justice & Empowerment,2024-02-09,Resolved,18.0,Low,The welfare benefit application was rejected without explanation. I have visited the office several times.
+JS100354,Gujarat,Transport,2026-03-06,Resolved,8.0,Low,The road transport bus is consistently arriving late. I request an early resolution.
+JS100355,Gujarat,Rural Development,2026-08-24,Pending,,Medium,The village development work is incomplete and contractor has stopped work. Please resolve this issue.
+JS100356,Rajasthan,Education,2025-06-29,In Progress,,Medium,Scholarship amount has not been credited to my bank account. I have visited the office several times.
+JS100357,Bihar,Social Justice & Empowerment,2024-12-21,Resolved,12.0,Medium,The welfare benefit application was rejected without explanation. This is affecting my family.
+JS100358,Uttar Pradesh,Electricity,2025-12-21,In Progress,,Medium,The power line is hanging dangerously close to the road. Please resolve this issue.
+JS100359,Rajasthan,Food & Civil Supplies,2025-04-21,Resolved,6.0,Medium,The fair price shop is not distributing the full ration entitlement. This is affecting my family. Please treat this as urgent.
+JS100360,Madhya Pradesh,Electricity,2025-11-28,In Progress,,High,The power line is hanging dangerously close to the road. I have visited the office several times.
+JS100361,Rajasthan,Rural Development,2024-10-17,In Progress,,Medium,My village road is damaged and has not been repaired for months. I have visited the office several times.
+JS100362,Uttar Pradesh,Electricity,2025-10-22,Pending,,Medium,My new electricity connection request is pending. I request an early resolution. I am facing serious hardship.
+JS100363,Uttar Pradesh,Transport,2025-12-31,In Progress,,Medium,The road transport bus is consistently arriving late. I have visited the office several times.
+JS100364,Maharashtra,Food & Civil Supplies,2024-01-04,Resolved,11.0,Medium,My new ration card application has not been processed. I have visited the office several times.
+JS100365,Gujarat,Rural Development,2025-03-28,In Progress,,Medium,The PMAY housing application is pending despite document submission. I request an early resolution.
+JS100366,Bihar,Electricity,2025-10-16,Resolved,6.0,High,There has been no electricity supply in our locality for two days. I have visited the office several times.
+JS100367,Rajasthan,Electricity,2025-05-26,Resolved,6.0,High,My new electricity connection request is pending. Please resolve this issue.
+JS100368,Uttar Pradesh,Rural Development,2026-05-09,Resolved,11.0,Medium,My village road is damaged and has not been repaired for months. This is affecting my family.
+JS100369,Madhya Pradesh,Electricity,2025-04-06,In Progress,,High,The power line is hanging dangerously close to the road. This is affecting my family. I am facing serious hardship.
+JS100370,Bihar,Rural Development,2024-05-31,Resolved,2.0,Low,The village development work is incomplete and contractor has stopped work. Kindly take necessary action.
+JS100371,Gujarat,Health & Family Welfare,2026-09-15,In Progress,,High,There is no doctor available at the community health centre. Please resolve this issue.
+JS100372,Maharashtra,Water Supply,2025-01-24,In Progress,,High,The water supplied to our village is dirty and unsafe. Please resolve this issue. Please treat this as urgent.
+JS100373,Gujarat,Food & Civil Supplies,2024-04-11,In Progress,,Low,My new ration card application has not been processed. Kindly take necessary action.
+JS100374,Rajasthan,Rural Development,2025-08-26,Resolved,2.0,Medium,The village development work is incomplete and contractor has stopped work. Please resolve this issue.
+JS100375,Uttar Pradesh,Rural Development,2024-06-16,Resolved,5.0,Low,The PMAY housing application is pending despite document submission. I have visited the office several times.
+JS100376,Gujarat,Transport,2026-03-04,Resolved,8.0,Medium,I have not received the vehicle registration certificate. Kindly take necessary action. No action has been taken so far.
+JS100377,Gujarat,Transport,2025-06-23,Pending,,Medium,The bus service to our village has been discontinued. Kindly take necessary action.
+JS100378,Uttar Pradesh,Health & Family Welfare,2026-04-27,Resolved,17.0,Medium,The government hospital has no essential medicines available. Kindly take necessary action.
+JS100379,Bihar,Water Supply,2025-04-27,Resolved,8.0,Low,Water tanker supply is irregular in our locality. This is affecting my family.
+JS100380,Gujarat,Rural Development,2024-10-28,Resolved,9.0,Medium,The drainage and sanitation work in our village is not being maintained. I request an early resolution.
+JS100381,Maharashtra,Social Justice & Empowerment,2026-06-10,Pending,,Medium,The old age pension payment has stopped without notice. I have visited the office several times. Please treat this as urgent.
+JS100382,Uttar Pradesh,Food & Civil Supplies,2026-03-24,Resolved,7.0,Medium,My new ration card application has not been processed. Please resolve this issue. No action has been taken so far.
+JS100383,Maharashtra,Rural Development,2026-05-09,Resolved,12.0,Medium,The drainage and sanitation work in our village is not being maintained. I request an early resolution.
+JS100384,Madhya Pradesh,Health & Family Welfare,2025-08-08,In Progress,,Medium,The government hospital has no essential medicines available. I request an early resolution.
+JS100385,Maharashtra,Water Supply,2024-03-17,Resolved,4.0,Medium,The public water pump has stopped working. I request an early resolution.
+JS100386,Madhya Pradesh,Water Supply,2025-11-09,Resolved,8.0,High,There has been no drinking water supply in our area for several days. This is affecting my family.
+JS100387,Bihar,Electricity,2025-09-12,In Progress,,High,There has been no electricity supply in our locality for two days. Kindly take necessary action.
+JS100388,Bihar,Health & Family Welfare,2026-06-26,Resolved,12.0,Low,I was denied treatment at the public health centre. I have visited the office several times.
+JS100389,Maharashtra,Health & Family Welfare,2026-04-13,In Progress,,Medium,I was denied treatment at the public health centre. This is affecting my family.
+JS100390,Maharashtra,Education,2026-04-06,Resolved,11.0,Medium,Scholarship amount has not been credited to my bank account. Kindly take necessary action.
+JS100391,Madhya Pradesh,Rural Development,2025-02-15,Resolved,9.0,Medium,The PMAY housing application is pending despite document submission. I have visited the office several times.
+JS100392,Gujarat,Social Justice & Empowerment,2026-03-23,Pending,,Medium,I am unable to receive the disability assistance benefit. Kindly take necessary action.
+JS100393,Madhya Pradesh,Electricity,2026-08-29,Resolved,9.0,Medium,My new electricity connection request is pending. I request an early resolution.
+JS100394,Bihar,Health & Family Welfare,2024-11-29,Pending,,Medium,The ambulance did not arrive during a medical emergency. Please resolve this issue.
+JS100395,Maharashtra,Social Justice & Empowerment,2024-01-19,Pending,,Low,I am unable to receive the disability assistance benefit. This is affecting my family.
+JS100396,Uttar Pradesh,Rural Development,2025-09-17,Pending,,Medium,The PMAY housing application is pending despite document submission. Kindly take necessary action.
+JS100397,Uttar Pradesh,Water Supply,2026-08-13,In Progress,,Low,My household water connection application is pending. This is affecting my family.
+JS100398,Madhya Pradesh,Health & Family Welfare,2026-02-05,Pending,,Medium,The government hospital has no essential medicines available. I request an early resolution.
+JS100399,Bihar,Health & Family Welfare,2025-07-20,Resolved,13.0,Medium,The health insurance claim under the government scheme is still pending. Please resolve this issue.
+JS100400,Maharashtra,Food & Civil Supplies,2025-05-07,Pending,,Medium,The fair price shop is not distributing the full ration entitlement. I have visited the office several times.
+JS100401,Uttar Pradesh,Water Supply,2026-10-15,Resolved,34.0,Low,My household water connection application is pending. I have visited the office several times.
+JS100402,Bihar,Rural Development,2025-12-03,Pending,,Medium,The drainage and sanitation work in our village is not being maintained. I request an early resolution.
+JS100403,Rajasthan,Transport,2024-12-14,Resolved,5.0,Medium,The road transport bus is consistently arriving late. I request an early resolution.
+JS100404,Gujarat,Transport,2025-01-09,Pending,,Medium,My driving licence application is pending at the transport office. Kindly take necessary action.
+JS100405,Rajasthan,Electricity,2025-11-09,Resolved,35.0,Low,The electricity bill contains an incorrect and unusually high charge. Kindly take necessary action.
+JS100406,Bihar,Transport,2024-05-25,Resolved,5.0,Low,The bus service to our village has been discontinued. I request an early resolution.
+JS100407,Maharashtra,Water Supply,2024-11-04,Resolved,1.0,Medium,Water tanker supply is irregular in our locality. Kindly take necessary action.
+JS100408,Gujarat,Transport,2025-01-04,Pending,,Medium,My driving licence application is pending at the transport office. Kindly take necessary action.
+JS100409,Rajasthan,Electricity,2025-03-04,Resolved,6.0,Medium,There has been no electricity supply in our locality for two days. Please resolve this issue.
+JS100410,Rajasthan,Education,2026-04-06,Resolved,12.0,Low,I have not received textbooks provided under the education scheme. This is affecting my family.
+JS100411,Gujarat,Social Justice & Empowerment,2025-01-25,Pending,,Medium,I am unable to receive the disability assistance benefit. Please resolve this issue.
+JS100412,Rajasthan,Social Justice & Empowerment,2026-10-27,Resolved,30.0,Medium,I am unable to receive the disability assistance benefit. Kindly take necessary action. I am facing serious hardship.
+JS100413,Madhya Pradesh,Food & Civil Supplies,2025-11-22,In Progress,,Low,My new ration card application has not been processed. This is affecting my family.
+JS100414,Gujarat,Transport,2026-04-06,Pending,,Medium,The road transport bus is consistently arriving late. I have visited the office several times.
+JS100415,Uttar Pradesh,Social Justice & Empowerment,2024-09-09,Pending,,Low,My pension application has been pending for several months. I request an early resolution.
+JS100416,Rajasthan,Food & Civil Supplies,2024-08-09,Resolved,4.0,Medium,The name of an eligible family member is missing from the ration card. I request an early resolution. Please treat this as urgent.
+JS100417,Bihar,Water Supply,2026-08-29,Pending,,Medium,The public water pump has stopped working. This is affecting my family. I am facing serious hardship.
+JS100418,Rajasthan,Rural Development,2025-07-06,Resolved,13.0,Medium,The village development work is incomplete and contractor has stopped work. This is affecting my family.
+JS100419,Maharashtra,Health & Family Welfare,2026-10-16,Resolved,3.0,High,The ambulance did not arrive during a medical emergency. Please resolve this issue.
+JS100420,Uttar Pradesh,Social Justice & Empowerment,2024-03-21,Resolved,29.0,Medium,I am unable to receive the disability assistance benefit. This is affecting my family.
+JS100421,Rajasthan,Electricity,2024-08-14,Resolved,20.0,Medium,The electricity bill contains an incorrect and unusually high charge. Please resolve this issue. Please treat this as urgent.
+JS100422,Gujarat,Health & Family Welfare,2026-07-24,Resolved,6.0,Low,The government hospital has no essential medicines available. Kindly take necessary action.
+JS100423,Rajasthan,Rural Development,2025-10-02,Resolved,22.0,Low,The village development work is incomplete and contractor has stopped work. Kindly take necessary action.
+JS100424,Madhya Pradesh,Rural Development,2026-06-15,Pending,,Medium,The PMAY housing application is pending despite document submission. I have visited the office several times.
+JS100425,Uttar Pradesh,Electricity,2026-07-23,Pending,,Low,The electricity bill contains an incorrect and unusually high charge. Please resolve this issue.
+JS100426,Uttar Pradesh,Water Supply,2024-04-30,In Progress,,Medium,The water supplied to our village is dirty and unsafe. Please resolve this issue. No action has been taken so far.
+JS100427,Bihar,Transport,2026-01-04,Pending,,High,My driving licence application is pending at the transport office. I request an early resolution.
+JS100428,Bihar,Education,2026-06-21,Resolved,8.0,High,The school building is unsafe and needs urgent repair. This is affecting my family. I am facing serious hardship.
+JS100429,Madhya Pradesh,Social Justice & Empowerment,2024-07-14,Resolved,21.0,Low,I am unable to receive the disability assistance benefit. I request an early resolution.
+JS100430,Uttar Pradesh,Water Supply,2024-04-21,Resolved,9.0,High,The water supplied to our village is dirty and unsafe. I request an early resolution.
+JS100431,Maharashtra,Transport,2025-10-18,Resolved,10.0,Medium,My driving licence application is pending at the transport office. Please resolve this issue.
+JS100432,Uttar Pradesh,Social Justice & Empowerment,2025-04-26,Pending,,Medium,The welfare benefit application was rejected without explanation. This is affecting my family.
+JS100433,Uttar Pradesh,Health & Family Welfare,2026-10-15,Resolved,6.0,Medium,The health insurance claim under the government scheme is still pending. This is affecting my family.
+JS100434,Uttar Pradesh,Rural Development,2025-09-15,Pending,,Medium,The drainage and sanitation work in our village is not being maintained. I request an early resolution. Please treat this as urgent.
+JS100435,Uttar Pradesh,Electricity,2026-07-19,Pending,,Low,The transformer is damaged and residents have no power. Please resolve this issue.
+JS100436,Madhya Pradesh,Electricity,2025-03-30,In Progress,,Medium,My new electricity connection request is pending. Please resolve this issue. No action has been taken so far.
+JS100437,Rajasthan,Electricity,2026-10-05,Pending,,High,There has been no electricity supply in our locality for two days. Please resolve this issue.
+JS100438,Bihar,Food & Civil Supplies,2026-03-15,Pending,,Medium,The name of an eligible family member is missing from the ration card. I have visited the office several times.
+JS100439,Maharashtra,Electricity,2024-09-09,Pending,,Low,There has been no electricity supply in our locality for two days. This is affecting my family. No action has been taken so far.
+JS100440,Maharashtra,Education,2024-04-09,Pending,,High,The school building is unsafe and needs urgent repair. Please resolve this issue.
+JS100441,Madhya Pradesh,Education,2024-09-19,Pending,,Medium,I have not received textbooks provided under the education scheme. I have visited the office several times.
+JS100442,Madhya Pradesh,Water Supply,2025-05-23,Resolved,14.0,Low,The public water pump has stopped working. I request an early resolution.
+JS100443,Bihar,Transport,2025-09-04,Resolved,10.0,Medium,My driving licence application is pending at the transport office. I have visited the office several times.
+JS100444,Bihar,Social Justice & Empowerment,2025-08-18,Pending,,Medium,The old age pension payment has stopped without notice. I have visited the office several times.
+JS100445,Uttar Pradesh,Education,2025-10-22,Resolved,13.0,Medium,I have not received textbooks provided under the education scheme. I request an early resolution.
+JS100446,Gujarat,Water Supply,2026-05-15,Resolved,2.0,Medium,Water tanker supply is irregular in our locality. Kindly take necessary action.
+JS100447,Rajasthan,Rural Development,2024-11-25,Resolved,21.0,Low,My village road is damaged and has not been repaired for months. I have visited the office several times.
+JS100448,Gujarat,Food & Civil Supplies,2024-07-28,Pending,,Medium,The fair price shop is not distributing the full ration entitlement. I request an early resolution. I am facing serious hardship.
+JS100449,Uttar Pradesh,Water Supply,2025-08-12,Resolved,25.0,High,The water supplied to our village is dirty and unsafe. I request an early resolution.
+JS100450,Gujarat,Electricity,2025-02-19,In Progress,,High,The power line is hanging dangerously close to the road. Please resolve this issue. I am facing serious hardship.
+JS100451,Bihar,Electricity,2025-02-06,Resolved,10.0,Medium,The power line is hanging dangerously close to the road. I request an early resolution.
+JS100452,Gujarat,Health & Family Welfare,2024-09-01,Resolved,32.0,High,I was denied treatment at the public health centre. I have visited the office several times.
+JS100453,Rajasthan,Education,2024-11-13,Resolved,28.0,Medium,I have not received textbooks provided under the education scheme. Kindly take necessary action. I am facing serious hardship.
+JS100454,Gujarat,Food & Civil Supplies,2024-05-29,Resolved,15.0,Medium,The dealer is asking for extra money to provide ration. I request an early resolution.
+JS100455,Bihar,Health & Family Welfare,2026-04-06,In Progress,,Medium,There is no doctor available at the community health centre. I have visited the office several times.
+JS100456,Rajasthan,Electricity,2026-08-30,In Progress,,Medium,The transformer is damaged and residents have no power. Kindly take necessary action.
+JS100457,Rajasthan,Health & Family Welfare,2025-05-14,Resolved,23.0,Medium,The ambulance did not arrive during a medical emergency. This is affecting my family.
+JS100458,Maharashtra,Water Supply,2024-02-20,Resolved,19.0,Medium,My household water connection application is pending. I request an early resolution.
+JS100459,Gujarat,Transport,2025-01-29,In Progress,,Low,I have not received the vehicle registration certificate. Please resolve this issue.
+JS100460,Maharashtra,Rural Development,2025-03-12,Resolved,1.0,Medium,My village road is damaged and has not been repaired for months. I have visited the office several times.
+JS100461,Madhya Pradesh,Water Supply,2025-11-10,Resolved,7.0,High,There has been no drinking water supply in our area for several days. I have visited the office several times. No action has been taken so far.
+JS100462,Madhya Pradesh,Health & Family Welfare,2026-04-14,Resolved,15.0,Low,There is no doctor available at the community health centre. I have visited the office several times.
+JS100463,Rajasthan,Rural Development,2024-05-09,Pending,,Medium,I have not received the approved rural employment wages. Please resolve this issue.
+JS100464,Uttar Pradesh,Electricity,2025-09-09,In Progress,,High,The power line is hanging dangerously close to the road. Please resolve this issue.
+JS100465,Madhya Pradesh,Water Supply,2024-10-06,Pending,,Medium,There has been no drinking water supply in our area for several days. This is affecting my family. Please treat this as urgent.
+JS100466,Maharashtra,Electricity,2024-10-16,Pending,,High,There has been no electricity supply in our locality for two days. I request an early resolution.
+JS100467,Gujarat,Health & Family Welfare,2025-12-05,In Progress,,High,The ambulance did not arrive during a medical emergency. I have visited the office several times.
+JS100468,Maharashtra,Education,2025-06-01,Pending,,Medium,The government school has no teachers for important subjects. I have visited the office several times.
+JS100469,Gujarat,Rural Development,2024-05-29,Resolved,26.0,Low,The drainage and sanitation work in our village is not being maintained. This is affecting my family.
+JS100470,Gujarat,Transport,2025-04-25,Resolved,2.0,Medium,The road transport bus is consistently arriving late. Kindly take necessary action. No action has been taken so far.
+JS100471,Madhya Pradesh,Electricity,2025-09-18,Pending,,Medium,My new electricity connection request is pending. This is affecting my family.
+JS100472,Madhya Pradesh,Electricity,2025-03-29,Resolved,1.0,Medium,My new electricity connection request is pending. I have visited the office several times. Please treat this as urgent.
+JS100473,Bihar,Education,2026-01-04,Resolved,9.0,Low,My student scholarship application is pending without a reason. This is affecting my family.
+JS100474,Rajasthan,Health & Family Welfare,2025-02-06,Resolved,1.0,High,The ambulance did not arrive during a medical emergency. I have visited the office several times.
+JS100475,Madhya Pradesh,Rural Development,2026-04-09,Resolved,9.0,Medium,The drainage and sanitation work in our village is not being maintained. Please resolve this issue.
+JS100476,Uttar Pradesh,Transport,2025-08-18,Resolved,12.0,Medium,My driving licence application is pending at the transport office. Kindly take necessary action.
+JS100477,Maharashtra,Electricity,2024-12-05,Resolved,4.0,Medium,The power line is hanging dangerously close to the road. Please resolve this issue.
+JS100478,Gujarat,Education,2025-04-19,Resolved,9.0,High,The school building is unsafe and needs urgent repair. Kindly take necessary action. I am facing serious hardship.
+JS100479,Bihar,Electricity,2024-04-05,Resolved,18.0,Medium,My new electricity connection request is pending. This is affecting my family.
+JS100480,Bihar,Food & Civil Supplies,2024-12-22,Resolved,6.0,Low,My new ration card application has not been processed. I request an early resolution.
+JS100481,Madhya Pradesh,Health & Family Welfare,2025-04-01,In Progress,,Medium,There is no doctor available at the community health centre. Kindly take necessary action.
+JS100482,Madhya Pradesh,Transport,2026-06-19,Resolved,5.0,Medium,I have not received the vehicle registration certificate. I request an early resolution. Please treat this as urgent.
+JS100483,Bihar,Social Justice & Empowerment,2024-08-30,In Progress,,Medium,The old age pension payment has stopped without notice. I have visited the office several times. No action has been taken so far.
+JS100484,Rajasthan,Health & Family Welfare,2024-11-26,Resolved,8.0,Medium,The health insurance claim under the government scheme is still pending. This is affecting my family.
+JS100485,Gujarat,Education,2024-03-21,Resolved,4.0,Medium,I have not received textbooks provided under the education scheme. I request an early resolution.
+JS100486,Uttar Pradesh,Water Supply,2025-08-03,Pending,,Medium,Water tanker supply is irregular in our locality. I request an early resolution.
+JS100487,Bihar,Transport,2024-10-19,Resolved,31.0,Medium,My driving licence application is pending at the transport office. I have visited the office several times.
+JS100488,Rajasthan,Food & Civil Supplies,2024-05-20,Resolved,9.0,Medium,The fair price shop is not distributing the full ration entitlement. Kindly take necessary action.
+JS100489,Maharashtra,Social Justice & Empowerment,2024-11-02,Resolved,5.0,Medium,The welfare benefit application was rejected without explanation. I request an early resolution.
+JS100490,Maharashtra,Rural Development,2024-07-09,In Progress,,Low,The drainage and sanitation work in our village is not being maintained. I request an early resolution.
+JS100491,Uttar Pradesh,Rural Development,2024-03-29,Resolved,11.0,Medium,I have not received the approved rural employment wages. I request an early resolution.
+JS100492,Gujarat,Water Supply,2024-07-19,Resolved,8.0,Low,My household water connection application is pending. I request an early resolution.
+JS100493,Rajasthan,Health & Family Welfare,2026-04-16,Pending,,High,The ambulance did not arrive during a medical emergency. I request an early resolution.
+JS100494,Rajasthan,Health & Family Welfare,2025-02-24,Resolved,8.0,Medium,There is no doctor available at the community health centre. Please resolve this issue.
+JS100495,Uttar Pradesh,Education,2026-05-17,In Progress,,High,The school building is unsafe and needs urgent repair. I request an early resolution.
+JS100496,Madhya Pradesh,Social Justice & Empowerment,2026-09-15,Resolved,6.0,Medium,The scholarship for eligible students from reserved categories is delayed. I request an early resolution.
+JS100497,Rajasthan,Food & Civil Supplies,2026-03-26,In Progress,,Medium,The name of an eligible family member is missing from the ration card. Kindly take necessary action.
+JS100498,Bihar,Social Justice & Empowerment,2026-03-31,Pending,,Low,The scholarship for eligible students from reserved categories is delayed. I have visited the office several times. No action has been taken so far.
+JS100499,Maharashtra,Rural Development,2024-01-11,Resolved,6.0,Medium,The PMAY housing application is pending despite document submission. This is affecting my family.
+JS100500,Uttar Pradesh,Water Supply,2026-01-29,Resolved,2.0,High,There has been no drinking water supply in our area for several days. Please resolve this issue.
+JS100501,Bihar,Food & Civil Supplies,2024-12-24,Resolved,23.0,Medium,The name of an eligible family member is missing from the ration card. Please resolve this issue.
+JS100502,Gujarat,Food & Civil Supplies,2025-04-19,Resolved,14.0,Medium,The fair price shop is not distributing the full ration entitlement. Please resolve this issue.
+JS100503,Gujarat,Rural Development,2026-03-29,Resolved,12.0,Low,The PMAY housing application is pending despite document submission. Please resolve this issue.
+JS100504,Maharashtra,Rural Development,2025-12-13,Resolved,8.0,Low,My village road is damaged and has not been repaired for months. Please resolve this issue.
+JS100505,Rajasthan,Social Justice & Empowerment,2025-06-18,Resolved,4.0,Medium,The scholarship for eligible students from reserved categories is delayed. This is affecting my family.
+JS100506,Bihar,Food & Civil Supplies,2025-06-11,Pending,,Medium,My new ration card application has not been processed. Please resolve this issue.
+JS100507,Uttar Pradesh,Transport,2025-05-13,Resolved,5.0,Low,I have not received the vehicle registration certificate. I request an early resolution.
+JS100508,Bihar,Rural Development,2026-02-22,Resolved,2.0,Medium,I have not received the approved rural employment wages. Please resolve this issue.
+JS100509,Rajasthan,Social Justice & Empowerment,2024-01-20,Resolved,5.0,Medium,I am unable to receive the disability assistance benefit. This is affecting my family.
+JS100510,Maharashtra,Water Supply,2024-12-31,Resolved,3.0,Low,My household water connection application is pending. Please resolve this issue.
+JS100511,Gujarat,Food & Civil Supplies,2025-02-12,In Progress,,Medium,The fair price shop is not distributing the full ration entitlement. I have visited the office several times.
+JS100512,Rajasthan,Social Justice & Empowerment,2025-12-30,Resolved,27.0,Medium,The old age pension payment has stopped without notice. I have visited the office several times.
+JS100513,Maharashtra,Transport,2024-03-27,Resolved,17.0,Low,A dangerous pothole on the main road is causing accidents. Please resolve this issue.
+JS100514,Rajasthan,Food & Civil Supplies,2025-07-27,Pending,,Low,The dealer is asking for extra money to provide ration. I have visited the office several times.
+JS100515,Rajasthan,Water Supply,2026-03-17,Resolved,10.0,Medium,The public water pump has stopped working. I request an early resolution. I am facing serious hardship.
+JS100516,Madhya Pradesh,Transport,2026-02-16,Resolved,4.0,Medium,The road transport bus is consistently arriving late. Please resolve this issue. Please treat this as urgent.
+JS100517,Uttar Pradesh,Education,2026-08-23,Resolved,4.0,Medium,I have not received textbooks provided under the education scheme. Kindly take necessary action.
+JS100518,Maharashtra,Social Justice & Empowerment,2026-03-31,Pending,,Low,The scholarship for eligible students from reserved categories is delayed. Kindly take necessary action.
+JS100519,Bihar,Social Justice & Empowerment,2026-06-04,Pending,,Low,My pension application has been pending for several months. Kindly take necessary action.
+JS100520,Maharashtra,Education,2026-10-20,Pending,,High,The school building is unsafe and needs urgent repair. Please resolve this issue.
+JS100521,Gujarat,Electricity,2024-04-07,Resolved,8.0,Low,My new electricity connection request is pending. Kindly take necessary action.
+JS100522,Madhya Pradesh,Food & Civil Supplies,2025-11-16,Pending,,Low,The dealer is asking for extra money to provide ration. Please resolve this issue.
+JS100523,Madhya Pradesh,Electricity,2025-02-11,Resolved,17.0,High,There has been no electricity supply in our locality for two days. This is affecting my family. No action has been taken so far.
+JS100524,Bihar,Electricity,2026-07-04,Resolved,2.0,Medium,The transformer is damaged and residents have no power. I request an early resolution.
+JS100525,Madhya Pradesh,Education,2026-04-08,Resolved,14.0,High,The government school has no teachers for important subjects. Kindly take necessary action.
+JS100526,Madhya Pradesh,Electricity,2026-03-20,Pending,,Low,The transformer is damaged and residents have no power. Kindly take necessary action.
+JS100527,Bihar,Transport,2024-02-17,Pending,,Medium,I have not received the vehicle registration certificate. I have visited the office several times.
+JS100528,Rajasthan,Health & Family Welfare,2024-07-14,Resolved,5.0,High,I was denied treatment at the public health centre. I have visited the office several times.
+JS100529,Madhya Pradesh,Water Supply,2024-11-14,In Progress,,Medium,Water tanker supply is irregular in our locality. Please resolve this issue. No action has been taken so far.
+JS100530,Rajasthan,Social Justice & Empowerment,2024-09-15,Resolved,6.0,Medium,The old age pension payment has stopped without notice. Kindly take necessary action.
+JS100531,Bihar,Electricity,2025-07-11,In Progress,,Medium,The transformer is damaged and residents have no power. This is affecting my family.
+JS100532,Madhya Pradesh,Education,2026-06-09,Resolved,10.0,Medium,I have not received textbooks provided under the education scheme. I request an early resolution.
+JS100533,Rajasthan,Transport,2026-06-23,Resolved,4.0,High,A dangerous pothole on the main road is causing accidents. I have visited the office several times.
+JS100534,Uttar Pradesh,Rural Development,2026-08-18,In Progress,,High,The drainage and sanitation work in our village is not being maintained. I have visited the office several times.
+JS100535,Maharashtra,Food & Civil Supplies,2025-04-18,Resolved,8.0,Medium,My ration card is not linked and I cannot receive subsidised food grains. This is affecting my family.
+JS100536,Bihar,Water Supply,2026-03-09,Resolved,4.0,Low,The public water pump has stopped working. I have visited the office several times.
+JS100537,Madhya Pradesh,Social Justice & Empowerment,2025-07-10,Resolved,6.0,Low,The welfare benefit application was rejected without explanation. I request an early resolution.
+JS100538,Bihar,Water Supply,2025-08-16,Resolved,16.0,High,The water supplied to our village is dirty and unsafe. Please resolve this issue.
+JS100539,Gujarat,Transport,2024-02-15,Resolved,10.0,Medium,My driving licence application is pending at the transport office. Kindly take necessary action. Please treat this as urgent.
+JS100540,Uttar Pradesh,Transport,2026-10-07,Resolved,16.0,Medium,The bus service to our village has been discontinued. I have visited the office several times. Please treat this as urgent.
+JS100541,Maharashtra,Electricity,2024-10-26,Resolved,5.0,Medium,My new electricity connection request is pending. Please resolve this issue.
+JS100542,Bihar,Transport,2025-05-27,Resolved,14.0,Low,My driving licence application is pending at the transport office. I have visited the office several times.
+JS100543,Maharashtra,Social Justice & Empowerment,2024-03-09,Pending,,Medium,The scholarship for eligible students from reserved categories is delayed. This is affecting my family.
+JS100544,Bihar,Social Justice & Empowerment,2025-10-01,Pending,,Low,The scholarship for eligible students from reserved categories is delayed. This is affecting my family.
+JS100545,Rajasthan,Health & Family Welfare,2025-02-10,Pending,,High,The ambulance did not arrive during a medical emergency. This is affecting my family.
+JS100546,Rajasthan,Social Justice & Empowerment,2024-09-02,Resolved,2.0,Low,The scholarship for eligible students from reserved categories is delayed. Kindly take necessary action. I am facing serious hardship.
+JS100547,Madhya Pradesh,Transport,2024-07-02,Pending,,High,A dangerous pothole on the main road is causing accidents. I have visited the office several times.
+JS100548,Maharashtra,Rural Development,2024-08-07,Resolved,10.0,Medium,My village road is damaged and has not been repaired for months. Kindly take necessary action.
+JS100549,Uttar Pradesh,Electricity,2026-01-03,In Progress,,Medium,My new electricity connection request is pending. I have visited the office several times. I am facing serious hardship.
+JS100550,Bihar,Transport,2026-09-30,Resolved,14.0,High,A dangerous pothole on the main road is causing accidents. Kindly take necessary action.
+JS100551,Madhya Pradesh,Transport,2024-11-24,Resolved,2.0,Medium,The road transport bus is consistently arriving late. I request an early resolution.
+JS100552,Madhya Pradesh,Electricity,2026-02-15,Resolved,5.0,Medium,My new electricity connection request is pending. Please resolve this issue.
+JS100553,Maharashtra,Social Justice & Empowerment,2026-03-04,Resolved,10.0,Medium,I am unable to receive the disability assistance benefit. Please resolve this issue.
+JS100554,Rajasthan,Education,2025-10-21,Pending,,Medium,I have not received textbooks provided under the education scheme. Kindly take necessary action.
+JS100555,Uttar Pradesh,Education,2026-09-21,Pending,,Medium,The government school has no teachers for important subjects. Please resolve this issue.
+JS100556,Rajasthan,Transport,2025-06-08,Pending,,High,A dangerous pothole on the main road is causing accidents. I request an early resolution.
+JS100557,Uttar Pradesh,Social Justice & Empowerment,2024-05-04,In Progress,,Low,The scholarship for eligible students from reserved categories is delayed. Please resolve this issue.
+JS100558,Maharashtra,Electricity,2024-03-24,Resolved,18.0,High,There has been no electricity supply in our locality for two days. I request an early resolution.
+JS100559,Bihar,Health & Family Welfare,2025-01-23,Resolved,6.0,Medium,The government hospital has no essential medicines available. I have visited the office several times.
+JS100560,Bihar,Education,2024-08-04,Pending,,Medium,I have not received textbooks provided under the education scheme. I request an early resolution.
+JS100561,Maharashtra,Water Supply,2026-04-02,Resolved,13.0,High,There has been no drinking water supply in our area for several days. I have visited the office several times.
+JS100562,Bihar,Transport,2025-10-26,Pending,,Low,The road transport bus is consistently arriving late. Kindly take necessary action.
+JS100563,Madhya Pradesh,Electricity,2025-03-14,Pending,,High,The power line is hanging dangerously close to the road. I have visited the office several times.
+JS100564,Madhya Pradesh,Transport,2025-08-05,Resolved,23.0,High,I have not received the vehicle registration certificate. This is affecting my family. Please treat this as urgent.
+JS100565,Madhya Pradesh,Rural Development,2025-10-06,In Progress,,Medium,The village development work is incomplete and contractor has stopped work. I have visited the office several times.
+JS100566,Gujarat,Education,2024-11-15,In Progress,,Medium,Scholarship amount has not been credited to my bank account. Please resolve this issue.
+JS100567,Uttar Pradesh,Social Justice & Empowerment,2025-03-21,Resolved,14.0,High,I am unable to receive the disability assistance benefit. Kindly take necessary action. I am facing serious hardship.
+JS100568,Maharashtra,Education,2024-07-14,Pending,,High,The school building is unsafe and needs urgent repair. I request an early resolution.
+JS100569,Rajasthan,Water Supply,2025-11-15,Resolved,8.0,High,There has been no drinking water supply in our area for several days. Please resolve this issue.
+JS100570,Maharashtra,Social Justice & Empowerment,2026-02-22,Resolved,12.0,Medium,The welfare benefit application was rejected without explanation. Please resolve this issue.
+JS100571,Uttar Pradesh,Education,2024-11-09,In Progress,,Medium,My student scholarship application is pending without a reason. I request an early resolution.
+JS100572,Bihar,Health & Family Welfare,2026-03-18,Resolved,6.0,High,I was denied treatment at the public health centre. This is affecting my family.
+JS100573,Gujarat,Rural Development,2026-03-27,Pending,,Medium,The drainage and sanitation work in our village is not being maintained. This is affecting my family.
+JS100574,Gujarat,Transport,2025-02-05,Resolved,10.0,High,A dangerous pothole on the main road is causing accidents. I have visited the office several times.
+JS100575,Gujarat,Health & Family Welfare,2024-07-02,Resolved,8.0,High,The ambulance did not arrive during a medical emergency. This is affecting my family.
+JS100576,Uttar Pradesh,Electricity,2025-09-16,Pending,,Medium,The transformer is damaged and residents have no power. I request an early resolution.
+JS100577,Rajasthan,Education,2025-04-23,Pending,,High,The school building is unsafe and needs urgent repair. Please resolve this issue.
+JS100578,Rajasthan,Health & Family Welfare,2024-10-29,Pending,,High,The government hospital has no essential medicines available. I have visited the office several times.
+JS100579,Maharashtra,Food & Civil Supplies,2025-03-09,Pending,,Medium,The dealer is asking for extra money to provide ration. This is affecting my family. Please treat this as urgent.
+JS100580,Madhya Pradesh,Transport,2024-02-07,Resolved,12.0,High,A dangerous pothole on the main road is causing accidents. I have visited the office several times.
+JS100581,Rajasthan,Education,2025-07-09,In Progress,,Medium,Scholarship amount has not been credited to my bank account. Kindly take necessary action.
+JS100582,Gujarat,Water Supply,2024-02-09,Pending,,Low,My household water connection application is pending. Kindly take necessary action.
+JS100583,Maharashtra,Water Supply,2026-09-19,Resolved,7.0,Medium,Water tanker supply is irregular in our locality. Please resolve this issue.
+JS100584,Madhya Pradesh,Transport,2025-09-16,Resolved,12.0,High,A dangerous pothole on the main road is causing accidents. Please resolve this issue. No action has been taken so far.
+JS100585,Uttar Pradesh,Electricity,2026-10-23,Pending,,Low,The transformer is damaged and residents have no power. Kindly take necessary action.
+JS100586,Uttar Pradesh,Rural Development,2025-11-30,Resolved,7.0,Low,The drainage and sanitation work in our village is not being maintained. Kindly take necessary action.
+JS100587,Maharashtra,Social Justice & Empowerment,2026-05-23,Resolved,17.0,Low,The scholarship for eligible students from reserved categories is delayed. I have visited the office several times.
+JS100588,Maharashtra,Education,2025-02-18,Pending,,Medium,The government school has no teachers for important subjects. I have visited the office several times.
+JS100589,Rajasthan,Education,2024-11-19,In Progress,,High,The school building is unsafe and needs urgent repair. I have visited the office several times.
+JS100590,Bihar,Education,2025-10-14,Resolved,7.0,Low,My student scholarship application is pending without a reason. I have visited the office several times.
+JS100591,Maharashtra,Food & Civil Supplies,2024-02-23,Pending,,Medium,The fair price shop is not distributing the full ration entitlement. I have visited the office several times. Please treat this as urgent.
+JS100592,Gujarat,Social Justice & Empowerment,2024-02-23,Pending,,High,The welfare benefit application was rejected without explanation. I have visited the office several times.
+JS100593,Rajasthan,Transport,2026-10-03,Resolved,1.0,Low,The road transport bus is consistently arriving late. I have visited the office several times.
+JS100594,Uttar Pradesh,Water Supply,2025-03-31,Resolved,4.0,Medium,There has been no drinking water supply in our area for several days. Kindly take necessary action.
+JS100595,Uttar Pradesh,Transport,2026-05-25,Pending,,Low,The road transport bus is consistently arriving late. This is affecting my family.
+JS100596,Rajasthan,Electricity,2024-03-19,Resolved,9.0,Medium,My new electricity connection request is pending. I request an early resolution.
+JS100597,Rajasthan,Social Justice & Empowerment,2024-03-21,Pending,,Medium,The welfare benefit application was rejected without explanation. I request an early resolution.
+JS100598,Maharashtra,Social Justice & Empowerment,2025-09-15,Resolved,27.0,Low,I am unable to receive the disability assistance benefit. This is affecting my family.
+JS100599,Maharashtra,Rural Development,2026-07-14,Resolved,16.0,Medium,The drainage and sanitation work in our village is not being maintained. I have visited the office several times.
+JS100600,Gujarat,Education,2024-02-21,Pending,,High,The school building is unsafe and needs urgent repair. This is affecting my family.
+JS100601,Bihar,Transport,2024-12-01,Resolved,1.0,Medium,The bus service to our village has been discontinued. Kindly take necessary action.
+JS100602,Gujarat,Transport,2026-02-25,Resolved,2.0,Medium,The road transport bus is consistently arriving late. Please resolve this issue.
+JS100603,Gujarat,Water Supply,2025-11-17,In Progress,,Medium,Water tanker supply is irregular in our locality. This is affecting my family. Please treat this as urgent.
+JS100604,Bihar,Education,2025-09-25,Resolved,20.0,Medium,The government school has no teachers for important subjects. Please resolve this issue.
+JS100605,Uttar Pradesh,Education,2024-01-08,Resolved,14.0,Medium,Scholarship amount has not been credited to my bank account. I have visited the office several times.
+JS100606,Uttar Pradesh,Transport,2026-10-07,Resolved,36.0,High,A dangerous pothole on the main road is causing accidents. Please resolve this issue.
+JS100607,Gujarat,Transport,2025-05-16,Pending,,Medium,The bus service to our village has been discontinued. I request an early resolution.
+JS100608,Maharashtra,Rural Development,2024-03-16,Pending,,Medium,The PMAY housing application is pending despite document submission. I have visited the office several times. I am facing serious hardship.
+JS100609,Bihar,Food & Civil Supplies,2024-12-31,Pending,,Medium,My new ration card application has not been processed. Please resolve this issue. I am facing serious hardship.
+JS100610,Uttar Pradesh,Education,2024-03-14,Resolved,6.0,High,The school building is unsafe and needs urgent repair. I request an early resolution.
+JS100611,Maharashtra,Health & Family Welfare,2024-10-02,Resolved,4.0,Medium,The health insurance claim under the government scheme is still pending. I request an early resolution. I am facing serious hardship.
+JS100612,Maharashtra,Water Supply,2024-04-29,In Progress,,Medium,Water tanker supply is irregular in our locality. I have visited the office several times.
+JS100613,Maharashtra,Health & Family Welfare,2025-08-11,Resolved,10.0,Low,The health insurance claim under the government scheme is still pending. I request an early resolution.
+JS100614,Gujarat,Electricity,2026-10-16,In Progress,,Low,The electricity bill contains an incorrect and unusually high charge. I request an early resolution.
+JS100615,Uttar Pradesh,Food & Civil Supplies,2024-08-29,Pending,,Medium,The fair price shop is not distributing the full ration entitlement. Please resolve this issue. I am facing serious hardship.
+JS100616,Rajasthan,Water Supply,2025-03-10,Resolved,6.0,High,There has been no drinking water supply in our area for several days. Kindly take necessary action.
+JS100617,Bihar,Food & Civil Supplies,2024-01-13,Resolved,19.0,Medium,My new ration card application has not been processed. I request an early resolution.
+JS100618,Rajasthan,Rural Development,2025-11-23,Resolved,6.0,Medium,The PMAY housing application is pending despite document submission. I have visited the office several times.
+JS100619,Rajasthan,Education,2025-11-17,In Progress,,High,The school building is unsafe and needs urgent repair. I have visited the office several times.
+JS100620,Madhya Pradesh,Food & Civil Supplies,2024-02-08,Resolved,7.0,Medium,The name of an eligible family member is missing from the ration card. Kindly take necessary action.
+JS100621,Maharashtra,Health & Family Welfare,2025-11-25,Resolved,4.0,Medium,I was denied treatment at the public health centre. Kindly take necessary action.
+JS100622,Gujarat,Water Supply,2025-10-06,Resolved,16.0,High,The water supplied to our village is dirty and unsafe. I request an early resolution. I am facing serious hardship.
+JS100623,Gujarat,Electricity,2025-09-11,Pending,,Medium,My new electricity connection request is pending. Kindly take necessary action.
+JS100624,Bihar,Health & Family Welfare,2026-10-21,In Progress,,Medium,The health insurance claim under the government scheme is still pending. I request an early resolution. I am facing serious hardship.
+JS100625,Bihar,Food & Civil Supplies,2024-07-20,Resolved,4.0,Medium,My new ration card application has not been processed. I have visited the office several times.
+JS100626,Maharashtra,Rural Development,2024-08-25,Resolved,12.0,Medium,I have not received the approved rural employment wages. This is affecting my family.
+JS100627,Maharashtra,Health & Family Welfare,2024-07-30,Resolved,30.0,High,The ambulance did not arrive during a medical emergency. This is affecting my family.
+JS100628,Bihar,Food & Civil Supplies,2025-08-09,Pending,,Low,The fair price shop is not distributing the full ration entitlement. Kindly take necessary action.
+JS100629,Madhya Pradesh,Health & Family Welfare,2024-02-01,Resolved,1.0,Medium,The ambulance did not arrive during a medical emergency. I have visited the office several times. Please treat this as urgent.
+JS100630,Maharashtra,Electricity,2025-08-03,Resolved,24.0,Medium,The transformer is damaged and residents have no power. I have visited the office several times.
+JS100631,Uttar Pradesh,Electricity,2026-08-22,Resolved,11.0,Medium,The power line is hanging dangerously close to the road. This is affecting my family. Please treat this as urgent.
+JS100632,Bihar,Water Supply,2026-07-02,In Progress,,High,The water supplied to our village is dirty and unsafe. I request an early resolution.
+JS100633,Bihar,Health & Family Welfare,2026-08-17,Pending,,Medium,The health insurance claim under the government scheme is still pending. I request an early resolution. No action has been taken so far.
+JS100634,Gujarat,Transport,2024-10-21,Resolved,3.0,Medium,I have not received the vehicle registration certificate. I have visited the office several times.
+JS100635,Gujarat,Electricity,2024-05-13,Resolved,10.0,Low,The transformer is damaged and residents have no power. This is affecting my family.
+JS100636,Madhya Pradesh,Food & Civil Supplies,2024-07-29,Pending,,Low,My new ration card application has not been processed. I request an early resolution.
+JS100637,Uttar Pradesh,Health & Family Welfare,2026-04-26,Resolved,15.0,High,The ambulance did not arrive during a medical emergency. I request an early resolution.
+JS100638,Bihar,Water Supply,2026-06-01,Resolved,5.0,Low,There has been no drinking water supply in our area for several days. Kindly take necessary action.
+JS100639,Maharashtra,Social Justice & Empowerment,2026-09-23,Resolved,13.0,Medium,The old age pension payment has stopped without notice. Please resolve this issue.
+JS100640,Maharashtra,Health & Family Welfare,2026-04-11,Pending,,Medium,The health insurance claim under the government scheme is still pending. I have visited the office several times.
+JS100641,Maharashtra,Water Supply,2024-05-05,Resolved,25.0,Medium,My household water connection application is pending. This is affecting my family.
+JS100642,Gujarat,Rural Development,2025-08-19,Resolved,6.0,Low,The PMAY housing application is pending despite document submission. I have visited the office several times.
+JS100643,Rajasthan,Electricity,2025-09-15,In Progress,,Low,The transformer is damaged and residents have no power. I request an early resolution.
+JS100644,Rajasthan,Rural Development,2024-09-18,In Progress,,High,The drainage and sanitation work in our village is not being maintained. I request an early resolution.
+JS100645,Bihar,Rural Development,2024-03-04,Pending,,Medium,The drainage and sanitation work in our village is not being maintained. Kindly take necessary action. I am facing serious hardship.
+JS100646,Maharashtra,Electricity,2025-03-08,Resolved,4.0,Medium,My new electricity connection request is pending. This is affecting my family.
+JS100647,Gujarat,Water Supply,2024-09-14,Pending,,High,My household water connection application is pending. This is affecting my family. No action has been taken so far.
+JS100648,Uttar Pradesh,Transport,2026-05-01,Pending,,Low,I have not received the vehicle registration certificate. I have visited the office several times. No action has been taken so far.
+JS100649,Rajasthan,Education,2026-07-10,Resolved,8.0,High,The school building is unsafe and needs urgent repair. I request an early resolution.
+JS100650,Bihar,Transport,2026-01-21,Pending,,Medium,My driving licence application is pending at the transport office. I request an early resolution.
